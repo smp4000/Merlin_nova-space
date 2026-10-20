@@ -4,10 +4,9 @@ Stand: 20.10.2026, Europe/Berlin. Phase: **Planung und Mockups**.
 
 ## Letzter Benutzerauftrag
 
-Benutzer fragt nach einem interaktiven Dashboard. Als begrenzte Vorschau des
-freigegebenen Designs umgesetzt, mit Beispieldaten und lokalen Interaktionen.
-Kein Auftrag zur produktiven Backend-/Fachmodulimplementierung.
-**Noch nichts programmieren.**
+Super-Admin soll sämtliche Landing-Inhalte einschließlich Modulpreisen zentral steuern.
+Fachspezifikation, Prompt 10 und Mockup 12 ergänzen den Planungsstand.
+Keine produktive Anwendung implementiert; konkrete Preise weiterhin offen.
 
 ## Vorhandene Ergebnisse
 
@@ -28,7 +27,9 @@ Kein Auftrag zur produktiven Backend-/Fachmodulimplementierung.
 - Abwesenheiten mit Arten-/Rechte-/Zustandsmatrix, Urlaubsjournal, Krankmeldung
   und getrenntem Nachweisstatus, Planwirkung und Verfügbarkeit; Prompt 08.
 - Offizielle Quellen zu Urlaub, Verfall, Krankmeldung und eAU-Grenzen.
-- Zehn Mockups insgesamt, zuletzt Verwaltungsansicht, eigener Antrag und Genehmigungsprüfung.
+- Elf Bildmockups einschließlich Super-Admin für Landing, Module und Preise.
+- Super-Admin-Spezifikation: CMS, Modulkatalog, Preisversionen, Veröffentlichung, Rechte
+  und Trennung von öffentlichen Angeboten und bestehenden Verträgen; Prompt 10.
 - Zusätzlich interaktiver HTML-Entwurf 11: Stations-/Demo-Rollenwechsel, Navigation,
   Zuordnung mit Beispiel-Überschneidungsprüfung, Antragsstatus, Station/Einladung vormerken.
 - Bedienung, Grenzen und tatsächliche Browserprüfungen in DASHBOARD-INTERAKTIV.md.
@@ -39,7 +40,8 @@ Kein Auftrag zur produktiven Backend-/Fachmodulimplementierung.
 
 ## Nächste sinnvolle Arbeit
 
-1. Feedback zum interaktiven Dashboard aufnehmen, ggf. gezielte UI-Varianten anpassen.
+1. Super-Admin-Planung besprechen: Paket/Add-ons, Preisbezugsgröße und Freigaberechte;
+   danach Beträge, Intervalle und Vertrags-/Bestandskundenregeln festlegen.
 2. Als nächstes Fachmodul Ist-Zeiterfassung/Arbeitszeitkonto vorschlagen,
    damit Plan, tatsächlich geleistete Zeit, Pausen und Korrekturen getrennt bleiben.
 3. Urlaubskonto Stufe A/B, Arbeitstage-/Feiertagsgrundlage, Wunschfrei-Wirkung,

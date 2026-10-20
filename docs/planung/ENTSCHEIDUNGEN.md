@@ -50,6 +50,9 @@ Stand: 20.10.2026. „Bestätigt“ bedeutet eine ausdrückliche Benutzeräußer
 | E43 | Vorschlag | Krankheit/Nachweis getrennt, keine Krankheitsgenehmigung/Diagnosepflicht; eAU eigener späterer Integrationsauftrag. |
 | E44 | Offen | Arbeitstage-/Feiertags-/Anspruchsprofile, Sonderfälle, Fristen/Verfall und Gesundheitsdatenschutz vor Produktivbetrieb fachlich klären. |
 | E45 | Bestätigt | Interaktives Dashboard als lokale Gestaltungsvorschau erstellen; kein weitergehender Backend-/Produktivauftrag. |
+| E46 | Bestätigt | Super-Admin soll sämtliche Landing-Inhalte einschließlich Modulpreisen zentral steuern können. |
+| E47 | Vorschlag | Entwurf/Veröffentlichung sowie Inhalts-, Preis- und Angebotsversionen trennen; neue öffentliche Preise ändern bestehende Verträge nicht automatisch. |
+| E48 | Offen | Paket-/Add-on-Struktur, Preisbezugsgröße, Beträge, Intervalle, Steuerdarstellung, Bestandskundenänderung und konkrete Publisherrechte. |
 
 ## Modellierungsgrundsätze der aktuellen Spezifikation
 

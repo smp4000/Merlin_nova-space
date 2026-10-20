@@ -8,7 +8,7 @@ Mandaten, Zahlungen, Deployment oder Datenmigration.
 
 GitHub enthält Planungen/Prompts für Landing, Partnerregistrierung/SEPA,
 Partner-Dashboard, Team/Zugänge, Stationen, Mitarbeiter/Einladung, Schichtplanung
-und Abwesenheiten/Urlaubskonto. Zehn Bildmockups und eine interaktive HTML-Vorschau
+und Abwesenheiten/Urlaubskonto sowie Super-Admin für Landing/Module/Preise. Elf Bildmockups und eine interaktive HTML-Vorschau
 zeigen diese Bereiche. Es gibt keinen neuen produktiven Anwendungscode, keine
 installierten Abhängigkeiten, Datenbank, Live-Integration oder bestandene Anwendungstests.
 Alte Laravel-/Android-Archive wurden lokal statisch betrachtet, sind aber nicht auf GitHub.
@@ -57,6 +57,15 @@ Bestätigten Stack einrichten, lokale Beispieldaten/Testkonfiguration, Designsys
 eigene Organisations-/Benutzer-/Stationskontexte und serverseitige Rechtegrenzen.
 Keine echten Zugangsdaten in Repo. Lokale Tests für horizontale/vertikale Trennung.
 Vorhandenen Altcode, falls bereitgestellt, zuerst gezielt abgleichen statt blind kopieren.
+
+### A2 – Super-Admin, Katalog und Veröffentlichung
+
+Nach Plattformrechten strukturierte CMS-/Modul-/Preis-/Angebotsversionen vorsehen;
+[Fachspezifikation](../planung/SUPER-ADMIN-LANDING-UND-PREISE.md) und Prompt 10 beachten.
+Geschützte Vorschau und atomare Freigabe vor öffentlicher Landing/Checkout anbinden.
+Keine Preisduplikate im Landingtext und Zahlungsprozess. Offene Preise blockieren
+bezahlten Abschluss. Bestehende Vertragskopien bleiben bei neuen Preisen unverändert.
+Keine Kundenfunktion durch bloße Landing-Sichtbarkeit aktivieren.
 
 ### B – Partner und Registrierung
 

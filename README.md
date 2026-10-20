@@ -21,6 +21,7 @@ Ausführliche Anleitung: [Rechnerwechsel](docs/leitfaeden/RECHNERWECHSEL.md).
 
 | Bereich | Einstieg |
 |---|---|
+| Super-Admin: Landing & Preise | [Fachspezifikation](docs/planung/SUPER-ADMIN-LANDING-UND-PREISE.md) · [Prompt 10](docs/prompts/10-super-admin-landing-und-preise.md) |
 | Aktueller Stand | [STATUS](docs/planung/STATUS.md) |
 | Interaktives Dashboard | [Vorschauquelle](docs/mockups/11-dashboard-interaktiv.html) · [Bedienung](docs/leitfaeden/DASHBOARD-INTERAKTIV.md) |
 | Entscheidungen/offene Punkte | [ENTSCHEIDUNGEN](docs/planung/ENTSCHEIDUNGEN.md) |
@@ -60,7 +61,7 @@ Nur Beispieldaten und lokale Interaktionen, keine neue produktive Anwendung.
 
 ![Wochenentwurf, Veröffentlichung und eigene Mitarbeiteransicht](docs/mockups/09-schichtplanung.png)
 
-Umsetzung später modulweise nach ausdrücklichem Auftrag; zehn Mockups sind vorhanden,
+Umsetzung später modulweise nach ausdrücklichem Auftrag; elf Bildmockups sind vorhanden,
 aber noch kein Anwendungscode und nicht sämtliche späteren Fachmodule fertig spezifiziert.
 
 ## Mitarbeiter & Mitarbeitereinladung
@@ -84,3 +85,10 @@ DATEV-orientierte Planung; Zielprogramm und konkrete Schnittstelle sind noch off
 - Es wurde bisher kein neuer Anwendungscode erzeugt. Gespeichert werden Spezifikationen und Prompts.
 - Preise, Anbieter und rechtliche Texte sind offen; keine Mandatsgültigkeit oder DSGVO-Zertifizierung behauptet.
 - GitHub-Repository ist öffentlich; nur zur Veröffentlichung bestimmte Planungsinhalte ablegen.
+
+## Super-Admin: Landing und Modulpreise
+
+![CMS und Preiskatalog als Gestaltungsvorschlag](docs/mockups/12-super-admin-landing-und-preise.png)
+
+Inhalte, Medien, Module und Preise zentral verwalten. Entwurf, Veröffentlichung und
+bestehende Verträge bleiben getrennt. Preise und Geschäftsmodell noch festzulegen.

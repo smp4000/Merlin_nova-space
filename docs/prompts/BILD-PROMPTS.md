@@ -248,3 +248,13 @@ Footer concept/examples/no implementation/no eAU connection.
 
 See gallery: separate actors, synthetic account values and formal/factual review
 are essential; a preview is not yet final approval or universal legal entitlement.
+
+## 12 – Super-Admin: Landing und Preise
+
+Konsolidiertes Bildbriefing: Zwei Desktopansichten nebeneinander im freigegebenen
+Eisblau-/Weiß-/Petrol-Stil mit navy Schrift. Links Website-/Landingeditor mit Hero,
+Bild/Alternativtext, sortierbaren Abschnitten, Sichtbarkeit und kleiner Landingvorschau.
+Rechts Module-/Preiskatalog mit geplanten Modulen, Preisen ausdrücklich „offen“ und
+Prüfhinweis zum gesperrten bezahlten Abschluss. Sidebar trennt Website, Module, Preise
+und Versionen. Keine Zahlenpreise, keine echten Kundendaten, keine Anwendung implementiert.
+Das kleine Stationsmotiv ist generisch generiert, nicht das veröffentlichte Originalfoto.

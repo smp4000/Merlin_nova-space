@@ -122,3 +122,12 @@ GitHub selbst zeigt nur den Quelltext. [Bedienung und Grenzen](../leitfaeden/DAS
 ### Abwesenheiten
 
 ![Verwaltung, eigener Urlaub und Freigabeprüfung](10-abwesenheiten.png)
+
+### Super-Admin: Landing und Modulpreise
+
+![Landingeditor und Modulkatalog](12-super-admin-landing-und-preise.png)
+
+Gestaltungsvorschlag zu Prompt 10; kein funktionierendes CMS. Preise bleiben offen.
+Das kleine Stationsbild ist ein generiertes Platzhaltermotiv, kein Originalfoto.
+Sichtbare Status/Schalter und generierte Bildtexte entscheiden keine Geschäftsregeln.
+Maßgeblich ist die [Fachspezifikation](../planung/SUPER-ADMIN-LANDING-UND-PREISE.md).

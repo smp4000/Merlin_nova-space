@@ -183,6 +183,23 @@ werden nicht versandt und nicht im optionalen Hostzustand gespeichert.
 Temporärer lokaler Prüfserver ist keine Bereitstellung/Produktivveröffentlichung.
 Quelle für Rechnerwechsel im Repo sichern, nicht auf den lokalen Inline-Pfad verlassen.
 
+## 20.10.2026 – Super-Admin für Landing und Modulpreise
+
+Benutzer bestätigt zentrale Steuerung sämtlicher Landing-Inhalte inklusive Modulpreisen
+im Super-Admin. Fachspezifikation SUPER-ADMIN-LANDING-UND-PREISE.md, Modul-Prompt 10
+und Bildmockup 12 erstellt. Inhalte/Medien, Module/Abhängigkeiten, Tarife/Preisversionen,
+Vorschau, Veröffentlichung, Plattformrechte und Audit geplant.
+
+Vorgeschlagen: Speichern bleibt Entwurf; Veröffentlichung referenziert geprüfte Versionen.
+Landing-Sichtbarkeit ist keine Kundenberechtigung. Neue Preise ändern bestehende
+Verträge nicht automatisch; Preisänderungen für Bestandskunden brauchen eigenen Prozess.
+Preise bleiben offen; kein bezahlter Abschluss ohne vollständiges Angebot.
+30 Tage Trial und Pflicht-SEPA bleiben erhalten, Mandat ersetzt keinen Aboabschluss.
+Keine Produktion programmiert, kein Zahlungs-/Kundenprozess ausgelöst.
+
+Nächste Entscheidung: Paket-/Zusatzmodulmodell, Bezugsgröße, dann Preise/Intervalle
+und Vertragsregeln. Übergabe und Indizes aktualisiert. Git-Sicherung separat prüfen.
+
 ## Weiterführungsregel
 
 Bei jedem Folgeauftrag Datum, Ergebnis, bestätigte Entscheidungen, offene Punkte

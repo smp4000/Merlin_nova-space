@@ -2,7 +2,8 @@
 
 ## Geplante Reihenfolge
 
-1. Landing-Inhalte und Preis-/Aboentscheidung.
+1. Super-Admin für Landing/Modulkatalog/Preisversionen (Prompt 10), danach
+   Landing-Inhalte und Preis-/Aboentscheidung.
 2. Partnerregistrierung mit Rechnung/SEPA und tatsächlichen Anbieteranforderungen.
 3. Partner-Dashboard für Erststart und laufenden Betrieb.
 4. Team & Zugänge mit Rollen, Stationen, Einladung und Entzug.
