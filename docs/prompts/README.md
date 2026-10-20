@@ -1,0 +1,15 @@
+# Modul-Prompts
+
+Die Texte sind konsolidierte, eigenständig nutzbare Arbeitsaufträge aus der Planung.
+Sie sind keine wörtlichen vollständigen Chat-Transkripte. Noch keine Implementierungsfreigabe.
+
+| Reihenfolge | Datei | Inhalt |
+|---|---|---|
+| 01 | [Landing](01-landing.md) | Neu aus der freigegebenen Planung konsolidiertes Landing-Briefing. |
+| 02 | [Partnerregistrierung](02-partnerregistrierung.md) | Bisheriger Modulauftrag mit SEPA und offenen Entscheidungen. |
+| 03 | [Partner-Dashboard](03-partner-dashboard.md) | Erster Einstieg und Übergang zur Arbeitsübersicht. |
+| 04 | [Team & Zugänge](04-team-und-zugaenge.md) | Neue detaillierte Planung, Rollen und Einladungen. |
+| Bilder | [Bildbriefings](BILD-PROMPTS.md) | Rekonstruierte Briefings aller generierten Mockups. |
+
+Vor späterer Programmierung jeweiligen Prompt ausdrücklich auf Umsetzung umstellen,
+offene Punkte prüfen und mit den tatsächlichen Projektdateien abgleichen.

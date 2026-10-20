@@ -1,0 +1,17 @@
+# Lokale Archivkopien sind keine freigegebene neue Anwendung.
+/analysis-source/
+/docs/referenzen/ATS_Petersberg.jpg
+*.zip
+.env
+.env.*
+!.env.example
+node_modules/
+vendor/
+.DS_Store
+Thumbs.db
+*.log
+*.pem
+*.key
+keystore.properties
+*.jks
+*.keystore
