@@ -4,9 +4,9 @@ Stand: 20.10.2026, Europe/Berlin. Phase: **Planung und Mockups**.
 
 ## Letzter Benutzerauftrag
 
-Team & Zugänge haarklein planen, mit Modul-Prompt und Mockup im gleichen Stil.
-Alle bisherigen Mockups, Prompts und Leitfäden im Repository
-`smp4000/Merlin_nova-space` sichern und einen Rechnerwechsel ermöglichen.
+Stationsverwaltung haarklein planen, mit Modul-Prompt und Mockup im gleichen Stil.
+Neue Ergebnisse wieder im Repository `smp4000/Merlin_nova-space` sichern und
+Status/Protokoll für einen Rechnerwechsel aktualisieren.
 **Noch nichts programmieren.**
 
 ## Vorhandene Ergebnisse
@@ -17,17 +17,22 @@ Alle bisherigen Mockups, Prompts und Leitfäden im Repository
 - Ergänzung SEPA als Pflichtschritt samt eigenem Mockup.
 - Partner-Dashboard-Prompt und Mockup für ersten Einstieg.
 - Team-&-Zugänge-Spezifikation, Prompt und Mockup.
+- Stationsverwaltungs-Spezifikation und Prompt 05: Stammdaten, Rechte,
+  Öffnungszeiten/Ausnahmen, Lebenszyklus und Abhängigkeiten.
+- Sieben Mockups insgesamt, zuletzt Stationsübersicht und Öffnungszeitenprofil.
 - Datenschutz-/SEPA-Leitfaden mit Quellen und offenen Punkten.
 - Git- und Codex-Übergabeanleitung.
 
 ## Nächste sinnvolle Arbeit
 
-1. Mit dem Benutzer Rollen und Rechteumfang für Stationsleitung prüfen.
-2. Offen vorgeschlagene Einladungsdauer von 7 Tagen bestätigen oder ändern.
-3. Ansichten für Stationsleitung und Rechteentzug als weitere Mockups planen.
-4. Stationsverwaltung im Detail planen: Stammdaten, Öffnungszeiten,
-   Zuständigkeiten, Aktivierung/Stilllegung.
-5. Erst auf ausdrücklichen Implementierungsauftrag Code erzeugen.
+1. Stationsverwaltung besprechen: Status-/Limitzählung, Leitungsrechte für
+   Öffnungszeiten und Stammdaten, Pause/Archiv mit laufenden Vorgängen bestätigen.
+2. Öffnungszeiten-Versionierung, Länder-/Zeitzonenmodell und Ausnahme-Randfälle prüfen.
+3. Rollen und Rechteumfang für Stationsleitung sowie vorgeschlagene
+   Einladungsdauer von 7 Tagen bestätigen oder ändern.
+4. Als nächstes Fachmodul Schichtplanung detailliert planen, falls Benutzer zustimmt.
+5. Bei Bedarf Anlage-, Archivierungs- und Stationsleitungsansichten zusätzlich mocken.
+6. Erst auf ausdrücklichen Implementierungsauftrag Code erzeugen.
 
 ## Noch nicht entschieden / nicht fertig
 
@@ -38,6 +43,10 @@ Alle bisherigen Mockups, Prompts und Leitfäden im Repository
 - Endgültiger Rollen-/Rechtekatalog; separate Buchhaltungsrolle optional.
 - Technischer Neuaufbau versus gezielte Übernahme alter Implementierung.
 - Verknüpfung eines Benutzerkontos mit mehreren Partnerorganisationen: zurückgestellt.
+- Ob Entwürfe/inaktive/archivierte Stationen auf das 100er-Limit zählen und wie sich
+  Archivierung auf eine spätere Abrechnung auswirkt.
+- Stationsrechte für Kontakte/Öffnungszeiten/Ausstattung; genaue Pausen-Nachbearbeitung.
+- Länderumfang, Stationszeitzone versus Organisationsvererbung und Gültig-ab-Regeln.
 
 ## Technischer Zustand
 

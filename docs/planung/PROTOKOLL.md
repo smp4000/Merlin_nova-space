@@ -43,6 +43,32 @@ Originaldatei ATS_Petersberg.jpg enthalten hätte. Sichere Alternative: Original
 belassen, aus Index und noch unveröffentlichter Historie entfernen und nur die beauftragten
 Mockups/Planungsunterlagen hochladen. Keine Änderung an der lokalen Originaldatei.
 
+## 20.10.2026 – Stationsverwaltung
+
+Benutzerauftrag: Stationsverwaltung haarklein mit Modul-Prompt und Mockup im
+gleichen Stil planen, wieder auf GitHub speichern und Protokoll aktualisieren;
+ausdrücklich noch nichts programmieren.
+
+Vor Bearbeitung `origin/main` abgeglichen: kein Rückstand/keine fremden Änderungen.
+Erstellt:
+- `STATIONSVERWALTUNG.md`: Feldkatalog, drei Statusachsen, Liste/Anlage/Profil,
+  reguläre/geteilte/übernächtige Öffnungszeiten, Datumsausnahmen, Zeitzone/DST,
+  Team-/Geräte-/Fachmodulgrenzen, Rollenmatrix, Pause/Archiv/Restore,
+  Änderungsverlauf, konzeptionelles Modell und Abnahmefälle.
+- `docs/prompts/05-stationsverwaltung.md`: eigenständig nutzbarer Modulauftrag.
+- Mockup 07: Stationsübersicht und Stationsprofil mit Öffnungszeiten im freigegebenen Stil.
+- Bildbriefing, Galerie, Entscheidungen, Status und README ergänzt.
+
+Detailregeln wie Limitzählung, Leitungsrechte, Zeitzonenvererbung und
+Versionierung sind Vorschläge, keine stillschweigende Geschäftsfreigabe.
+Bekannte Bildvereinfachungen in der Galerie festgehalten. Keine echten Stationsdaten,
+Bankdaten, Originalfotodateien oder Anwendungscode in den neuen Dateien.
+Lokale Markdown-Verweise/Codeblöcke und Git-Whitespace vor Veröffentlichung prüfen;
+Git-Push über Remote-Commit vergleichen. Es gibt keine ausführbare neue Anwendung.
+
+Nächster Schritt: Stationsregeln bestätigen und anschließend auf Benutzerwunsch
+Schichtplanung als eigenes Modul planen. Automatische Aboverlängerung bleibt offen.
+
 ## Weiterführungsregel
 
 Bei jedem Folgeauftrag Datum, Ergebnis, bestätigte Entscheidungen, offene Punkte

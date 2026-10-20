@@ -6,7 +6,7 @@
 2. Partnerregistrierung mit Rechnung/SEPA und tatsächlichen Anbieteranforderungen.
 3. Partner-Dashboard für Erststart und laufenden Betrieb.
 4. Team & Zugänge mit Rollen, Stationen, Einladung und Entzug.
-5. Stationsverwaltung im Detail.
+5. Stationsverwaltung im Detail (Spezifikation/Prompt/Mockup vorhanden; Regeln noch besprechen).
 6. Weitere Fachmodule, jeweils eigener Prompt und Mockup.
 7. Erst nach ausdrücklicher Freigabe eines konkreten Moduls programmieren.
 

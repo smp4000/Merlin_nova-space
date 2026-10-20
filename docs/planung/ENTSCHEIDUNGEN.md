@@ -25,6 +25,13 @@ Stand: 20.10.2026. „Bestätigt“ bedeutet eine ausdrückliche Benutzeräußer
 | E18 | Offen | Anbieter, Mandatsverfahren, Gläubiger-ID, Fristen, Rechtstexte. |
 | E19 | Offen | Endgültige Umsetzungstechnologie; vorhandenes Backend ist Referenz, kein bereits beschlossener Neuaufbau. |
 | E20 | Zurückgestellt | Mehrere voneinander unabhängige Partnerorganisationen je Benutzerkonto. |
+| E21 | Bestätigt | Stationsverwaltung detailliert planen, mit Mockup/Prompt auf GitHub sichern; weiterhin keine Programmierung. |
+| E22 | Vorschlag | Stationsstatus Entwurf/Aktiv/Inaktiv/Archiviert getrennt von Einrichtungsfortschritt und Abo führen. |
+| E23 | Vorschlag | Entwürfe/aktive/inaktive Stationen zählen auf 100, archivierte nicht; Restore prüft Limit erneut. Abrechnungsfolgen offen. |
+| E24 | Vorschlag | Anschrift vor Aktivierung, Leitung/Geräte/Artikel/Öffnungszeiten nicht pauschal als Aktivierungspflicht. |
+| E25 | Offen | Stationsleitung darf Kontakte/Öffnungszeiten/Ausstattung nur mit separat bestätigten Fachrechten ändern. |
+| E26 | Vorschlag | Zeitzone V1 aus Organisation erben; Öffnungszeiten mit Gültig-ab-Versionen und Vorrang konkreter Datumsausnahmen. |
+| E27 | Vorschlag | Pause/Archiv bewusst mit Abhängigkeitsprüfung; keine Sofortlöschung oder automatische Aboänderung. |
 
 ## Modellierungsgrundsätze der aktuellen Spezifikation
 

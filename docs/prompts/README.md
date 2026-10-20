@@ -9,6 +9,7 @@ Sie sind keine wörtlichen vollständigen Chat-Transkripte. Noch keine Implement
 | 02 | [Partnerregistrierung](02-partnerregistrierung.md) | Bisheriger Modulauftrag mit SEPA und offenen Entscheidungen. |
 | 03 | [Partner-Dashboard](03-partner-dashboard.md) | Erster Einstieg und Übergang zur Arbeitsübersicht. |
 | 04 | [Team & Zugänge](04-team-und-zugaenge.md) | Neue detaillierte Planung, Rollen und Einladungen. |
+| 05 | [Stationsverwaltung](05-stationsverwaltung.md) | Stammdaten, Öffnungszeiten, Zuständigkeiten, Pause/Archiv und Systemgrenzen. |
 | Bilder | [Bildbriefings](BILD-PROMPTS.md) | Rekonstruierte Briefings aller generierten Mockups. |
 
 Vor späterer Programmierung jeweiligen Prompt ausdrücklich auf Umsetzung umstellen,

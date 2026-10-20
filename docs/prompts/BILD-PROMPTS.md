@@ -132,3 +132,33 @@ sent. Cancel, save draft, send invitation buttons. Concept/no-implementation foo
 
 The first generated board incorrectly counts pending invitation in the access tab;
 final spec requires separate counts. Rights listed are examples, not approved defaults.
+
+## 07 – Stationsverwaltung, aktuelle Planung
+
+```text
+Create a premium high-fidelity German Merlin UX board with two complete desktop
+screens stacked vertically. Flat screenshots, no perspective/devices. Approved
+white/ice-blue, dark navy sans-serif, petrol buttons/active states, cool thin borders,
+restrained shadows, 12px white cards, crisp outline icons, legible German text.
+No real data, original photo, bank information or legal certification.
+Upper view: organization sidebar, Stationen active, station selector, title
+„Deine Stationen. Zentral organisiert.“ and teal „Station anlegen“.
+Counters 2 active, 1 draft, 1 inactive. Search name/code/city and status filter.
+Table four synthetic stations Musterstadt MST, Beispielort BSP, Nord NRD, West WST;
+columns station/city/manager/status/profile/action. Two active, one draft, one
+inactive. Kim Muster manages first two, others no manager. Show incomplete
+opening hours separately from active status; draft still needs address.
+Note company billing address is separate from each station address.
+Lower view: Station Musterstadt profile, stable code, sample address and active
+badge, Station verwalten button. Tabs overview/master data/opening hours/team/
+equipment/devices. Opening hours selected. Weekly schedule Mon–Fri 06–22,
+Sat 07–22, Sun 08–20, add time window, explicit 24h and closed controls,
+visible Europe/Berlin timezone, overnight helper. Exception 24.12.2026 08–14.
+Right cards manager Kim Muster, status/profile/device setup separately, no
+device coupled; missing device/article import does not block activation.
+Bank data and invoices not part of station profile. Save/discard actions.
+Footer concept, examples, no implementation. No fabricated revenue or map APIs.
+```
+
+See gallery notes for simplified per-day controls, simultaneous week/exception
+views and illustrative generated thumbnails. Model/business rules take precedence.

@@ -26,6 +26,7 @@ Ausführliche Anleitung: [Rechnerwechsel](docs/leitfaeden/RECHNERWECHSEL.md).
 | Arbeitsprotokoll | [PROTOKOLL](docs/planung/PROTOKOLL.md) |
 | Bestand und Zielarchitektur | [BESTAND](docs/planung/BESTAND.md) |
 | Team & Zugänge im Detail | [Spezifikation](docs/planung/TEAM-UND-ZUGAENGE.md) |
+| Stationsverwaltung im Detail | [Spezifikation](docs/planung/STATIONSVERWALTUNG.md) |
 | Datenschutz und SEPA | [Planungsleitfaden](docs/leitfaeden/DATENSCHUTZ-UND-SEPA.md) |
 | Modul-Prompts | [Übersicht](docs/prompts/README.md) |
 | Alle Mockups | [Galerie und Hinweise](docs/mockups/README.md) |
@@ -35,7 +36,11 @@ Ausführliche Anleitung: [Rechnerwechsel](docs/leitfaeden/RECHNERWECHSEL.md).
 
 ![Landingpage im gewünschten Eisblau-Petrol-Stil](docs/mockups/02-landing-freigegebener-stil.png)
 
-## Team & Zugänge – aktueller Entwurf
+## Stationsverwaltung – aktueller Entwurf
+
+![Stationsübersicht und Öffnungszeiten](docs/mockups/07-stationsverwaltung.png)
+
+## Team & Zugänge
 
 ![Team und Einladung](docs/mockups/06-team-und-zugaenge.png)
 

@@ -11,6 +11,7 @@ Status/Nummern beziehen sich auf die Planungsreihenfolge, nicht auf Implementier
 | [04](04-partnerregistrierung-sepa.png) | Konzept | SEPA-Pflichtschritt; Betreiberangaben und Mandatstext fehlen bewusst. |
 | [05](05-partner-dashboard.png) | Konzept | Erster Einstieg als Inhaber, eine Station, leere Fachbereiche. |
 | [06](06-team-und-zugaenge.png) | Konzept, neu | Zugangsübersicht und Einladung mit Stations-/Rechteumfang. |
+| [07](07-stationsverwaltung.png) | Konzept, neueste Ansicht | Stationsübersicht und Profil mit Öffnungszeiten/Zuständigkeiten. |
 
 ## Bekannte Bildabweichungen – nicht als Anforderung übernehmen
 
@@ -31,6 +32,14 @@ Status/Nummern beziehen sich auf die Planungsreihenfolge, nicht auf Implementier
   „Einladung senden“ ist die ausdrückliche Versandbestätigung, kein zusätzlicher unklarer Folgeschritt.
   Rechte-Checkboxen sind beispielhaft, noch kein bestätigtes Rollenpaket.
 - Logos unterscheiden sich leicht zwischen Bildern. Ein endgültiges Logo/Icon-System ist noch nicht festgelegt.
+- 07 fasst Montag–Freitag für die Darstellung zusammen. Fachlich sind es Tagesregeln;
+  der 24h-Modus gehört je Tag/Zeitplan, nicht als unklarer globaler Schalter unter alle Tage.
+  Reguläre Woche und Ausnahmen sind gleichzeitig gezeigt, obwohl oben Reiter sichtbar sind:
+  später entweder getrennte Reiter oder ausdrücklich eine gemeinsame Zusammenfassung wählen.
+  „Vollständig“ bezieht sich auf das definierte Stationsprofil, nicht sämtliche Geräte-/Fachmodule.
+  Kleine Stationsbilder sind generierte Platzhalter, keine echten Standortfotos.
+  Einbindung von Stationsbildern ist noch keine beschlossene V1-Funktion.
+  Inaktiv ist ein neutraler Betriebszustand, kein pauschaler roter Fehlerstatus.
 
 ## Vorschauen
 
@@ -53,3 +62,7 @@ Status/Nummern beziehen sich auf die Planungsreihenfolge, nicht auf Implementier
 ### Team & Zugänge
 
 ![Team](06-team-und-zugaenge.png)
+
+### Stationsverwaltung
+
+![Stationsübersicht und Öffnungszeiten](07-stationsverwaltung.png)
