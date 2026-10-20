@@ -5,6 +5,9 @@
 **Nur planen, dokumentieren und Mockups erstellen. Noch keinen Anwendungscode programmieren.**
 Der Benutzer hat am 20.10.2026 ausdrücklich entschieden, in diesem Chat weiter zu planen.
 Eine spätere ausdrückliche Implementierungsanweisung darf diesen Modus ändern.
+Ein interaktives Dashboard wurde zusätzlich ausdrücklich als Mockup angefragt.
+`docs/mockups/11-dashboard-interaktiv.html` ist Vorschaucode ohne Backend,
+keine globale Freigabe zur Implementierung der geplanten Anwendungsmodule.
 
 ## Beim Einstieg lesen
 

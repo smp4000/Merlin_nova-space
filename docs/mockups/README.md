@@ -15,6 +15,10 @@ Status/Nummern beziehen sich auf die Planungsreihenfolge, nicht auf Implementier
 | [08](08-mitarbeiter-und-einladung.png) | Konzept | Mitarbeiterliste, Einladung zum Personalfragebogen und mobiler eigener Erfassungsbereich. |
 | [09](09-schichtplanung.png) | Konzept | Wochenentwurf, Veröffentlichungsvorschau und eigene Mitarbeiteransicht. |
 | [10](10-abwesenheiten.png) | Konzept, neueste Ansicht | Abwesenheitsverwaltung, eigener Urlaubsantrag und getrennte berechtigte Prüfung. |
+| [11](11-dashboard-interaktiv.html) | Interaktive Vorschau | Navigation, Stations-/Rollenwechsel, Beispielzuordnung und Antragsstatus. Keine produktive Anwendung. |
+
+Interaktive Quelle nach Klonen im Browser öffnen oder in Codex darstellen lassen;
+GitHub selbst zeigt nur den Quelltext. [Bedienung und Grenzen](../leitfaeden/DASHBOARD-INTERAKTIV.md).
 
 ## Bekannte Bildabweichungen – nicht als Anforderung übernehmen
 
@@ -74,6 +78,12 @@ Status/Nummern beziehen sich auf die Planungsreihenfolge, nicht auf Implementier
   Die Krankmeldungszahl ist ausschließlich für entsprechende Personalberechtigte;
   Planer-/Kollegenansicht erhält keine Gesundheitsübersicht oder Diagnosen.
   Noch keine eigene Krankheitserfassungsansicht oder eAU-Integration im Bild umgesetzt.
+- 11 ist HTML-Vorschaucode, kein Screenshot. Rollenwechsel demonstriert Ansichten,
+  ist keine serverseitige Berechtigung. Zuordnung prüft nur Zeitkollisionen in den
+  Beispieldaten, kein vollständiges Gesetz-/Vertragsprofil. Antragsänderung bucht
+  kein echtes Urlaubskonto, Vormerkung sendet keine Mail. Alle Daten fiktiv.
+  Vorschau hat festes Beispieldatum, keine Live-Kennzahlen. Hosticons können außerhalb
+  von Codex fehlen; die Textbedienung bleibt verfügbar. Keine echten Formulardaten eingeben.
 
 ## Vorschauen
 

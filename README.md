@@ -22,6 +22,7 @@ Ausführliche Anleitung: [Rechnerwechsel](docs/leitfaeden/RECHNERWECHSEL.md).
 | Bereich | Einstieg |
 |---|---|
 | Aktueller Stand | [STATUS](docs/planung/STATUS.md) |
+| Interaktives Dashboard | [Vorschauquelle](docs/mockups/11-dashboard-interaktiv.html) · [Bedienung](docs/leitfaeden/DASHBOARD-INTERAKTIV.md) |
 | Entscheidungen/offene Punkte | [ENTSCHEIDUNGEN](docs/planung/ENTSCHEIDUNGEN.md) |
 | Arbeitsprotokoll | [PROTOKOLL](docs/planung/PROTOKOLL.md) |
 | Bestand und Zielarchitektur | [BESTAND](docs/planung/BESTAND.md) |
@@ -43,7 +44,15 @@ Ausführliche Anleitung: [Rechnerwechsel](docs/leitfaeden/RECHNERWECHSEL.md).
 
 ![Landingpage im gewünschten Eisblau-Petrol-Stil](docs/mockups/02-landing-freigegebener-stil.png)
 
-## Abwesenheiten – aktueller Entwurf
+## Interaktives Dashboard
+
+[Vorschauquelle herunterladen/öffnen](docs/mockups/11-dashboard-interaktiv.html):
+Stations-/Rollenwechsel, Navigation, Schichtzuordnung und Beispielanträge.
+Die GitHub-Dateiseite führt HTML nicht aus. Nach Klonen lokal im Browser öffnen
+oder in Codex als interaktive Vorschau anzeigen lassen.
+Nur Beispieldaten und lokale Interaktionen, keine neue produktive Anwendung.
+
+## Abwesenheiten
 
 ![Verwaltung, eigener Urlaubsantrag und Prüfung](docs/mockups/10-abwesenheiten.png)
 

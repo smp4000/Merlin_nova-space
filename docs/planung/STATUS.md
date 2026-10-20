@@ -4,9 +4,9 @@ Stand: 20.10.2026, Europe/Berlin. Phase: **Planung und Mockups**.
 
 ## Letzter Benutzerauftrag
 
-Mit „weiter“ nächste vorgeschlagene Planung Abwesenheiten/Urlaub/Wunschfrei/
-Krankheit/Verfügbarkeit fortführen und für spätere Programmierung dokumentieren.
-Fachspezifikation, Modul-Prompt, Mockup, GitHub-Ablage und Übergabe aktualisieren.
+Benutzer fragt nach einem interaktiven Dashboard. Als begrenzte Vorschau des
+freigegebenen Designs umgesetzt, mit Beispieldaten und lokalen Interaktionen.
+Kein Auftrag zur produktiven Backend-/Fachmodulimplementierung.
 **Noch nichts programmieren.**
 
 ## Vorhandene Ergebnisse
@@ -29,6 +29,9 @@ Fachspezifikation, Modul-Prompt, Mockup, GitHub-Ablage und Übergabe aktualisier
   und getrenntem Nachweisstatus, Planwirkung und Verfügbarkeit; Prompt 08.
 - Offizielle Quellen zu Urlaub, Verfall, Krankmeldung und eAU-Grenzen.
 - Zehn Mockups insgesamt, zuletzt Verwaltungsansicht, eigener Antrag und Genehmigungsprüfung.
+- Zusätzlich interaktiver HTML-Entwurf 11: Stations-/Demo-Rollenwechsel, Navigation,
+  Zuordnung mit Beispiel-Überschneidungsprüfung, Antragsstatus, Station/Einladung vormerken.
+- Bedienung, Grenzen und tatsächliche Browserprüfungen in DASHBOARD-INTERAKTIV.md.
 - Umsetzungsübergabe für neuen Rechner mit Modulreihenfolge, offenen Voraussetzungen
   und späterem Startprompt; keine automatische Programmierfreigabe.
 - Datenschutz-/SEPA-Leitfaden mit Quellen und offenen Punkten.
@@ -36,15 +39,16 @@ Fachspezifikation, Modul-Prompt, Mockup, GitHub-Ablage und Übergabe aktualisier
 
 ## Nächste sinnvolle Arbeit
 
-1. Als nächstes Fachmodul Ist-Zeiterfassung/Arbeitszeitkonto vorschlagen,
+1. Feedback zum interaktiven Dashboard aufnehmen, ggf. gezielte UI-Varianten anpassen.
+2. Als nächstes Fachmodul Ist-Zeiterfassung/Arbeitszeitkonto vorschlagen,
    damit Plan, tatsächlich geleistete Zeit, Pausen und Korrekturen getrennt bleiben.
-2. Urlaubskonto Stufe A/B, Arbeitstage-/Feiertagsgrundlage, Wunschfrei-Wirkung,
+3. Urlaubskonto Stufe A/B, Arbeitstage-/Feiertagsgrundlage, Wunschfrei-Wirkung,
    Freigabe/Vertretung und Gesundheitsdatenrechte bestätigen.
-3. Schichtregel-/Tarif-/Schutzprofile, offene Plätze und Veröffentlichungsrechte klären.
-4. DATEV-/Arbeitgebermodell und übrige Stations-/Rollen-/Aboentscheidungen bleiben offen.
-5. Für Programmierung am neuen Rechner UMSETZUNGSUEBERGABE lesen und Stack/Basis
+4. Schichtregel-/Tarif-/Schutzprofile, offene Plätze und Veröffentlichungsrechte klären.
+5. DATEV-/Arbeitgebermodell und übrige Stations-/Rollen-/Aboentscheidungen bleiben offen.
+6. Für Programmierung am neuen Rechner UMSETZUNGSUEBERGABE lesen und Stack/Basis
    plus konkreten ersten Implementierungsschritt ausdrücklich beauftragen.
-6. Bis dahin weiterhin keine Anwendung programmieren.
+7. Bis dahin keine produktive Anwendung implementieren; Vorschaucode separat halten.
 
 ## Noch nicht entschieden / nicht fertig
 
@@ -71,7 +75,8 @@ Fachspezifikation, Modul-Prompt, Mockup, GitHub-Ablage und Übergabe aktualisier
 
 ## Technischer Zustand
 
-Repository enthält Planungsdateien und Bilder; keine neue ausführbare Anwendung.
+Repository enthält Planungsdateien, zehn Bilder und eine lokal interaktive HTML-Vorschau;
+keine neue produktive Anwendung, Datenbank oder Backend-Authentifizierung.
 Laravel und Kotlin aus Altarchiven wurden nicht installiert/gestartet und nicht getestet.
 Lokale `analysis-source/`-Ordner sind ignoriert und auf dem neuen Rechner nicht vorhanden.
 Es gibt keine Datenbank, keinen Zahlungsanschluss und keinen Versanddienst für den Neuaufbau.

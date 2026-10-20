@@ -8,10 +8,15 @@ Mandaten, Zahlungen, Deployment oder Datenmigration.
 
 GitHub enthält Planungen/Prompts für Landing, Partnerregistrierung/SEPA,
 Partner-Dashboard, Team/Zugänge, Stationen, Mitarbeiter/Einladung, Schichtplanung
-und Abwesenheiten/Urlaubskonto. Zehn Mockups zeigen diese Bereiche. Es gibt keinen neuen Anwendungscode, keine
+und Abwesenheiten/Urlaubskonto. Zehn Bildmockups und eine interaktive HTML-Vorschau
+zeigen diese Bereiche. Es gibt keinen neuen produktiven Anwendungscode, keine
 installierten Abhängigkeiten, Datenbank, Live-Integration oder bestandene Anwendungstests.
 Alte Laravel-/Android-Archive wurden lokal statisch betrachtet, sind aber nicht auf GitHub.
 Implementierungstechnologie und konkreter Übernahmeumfang sind noch offen.
+
+Die interaktive Vorschau unter docs/mockups/11-dashboard-interaktiv.html ist ein
+lokaler Designentwurf, keine Backend-/Authentifizierungs-/Integrationsbasis. Sie
+ersetzt keine fachlichen Spezifikationen oder echte serverseitige Rechteprüfung.
 
 Die Planungen reichen als detaillierte Arbeitsgrundlage. Sie bedeuten nicht, dass alle
 Geschäfts-/Rechtsfragen oder sämtliche späteren Fachmodule abgeschlossen sind.

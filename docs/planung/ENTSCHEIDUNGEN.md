@@ -49,6 +49,7 @@ Stand: 20.10.2026. „Bestätigt“ bedeutet eine ausdrückliche Benutzeräußer
 | E42 | Offen | Verbindlichkeit bestätigter Wunschfrei-/Verfügbarkeitsangaben und konkrete Vertretungs-/Entscheidungsrechte. |
 | E43 | Vorschlag | Krankheit/Nachweis getrennt, keine Krankheitsgenehmigung/Diagnosepflicht; eAU eigener späterer Integrationsauftrag. |
 | E44 | Offen | Arbeitstage-/Feiertags-/Anspruchsprofile, Sonderfälle, Fristen/Verfall und Gesundheitsdatenschutz vor Produktivbetrieb fachlich klären. |
+| E45 | Bestätigt | Interaktives Dashboard als lokale Gestaltungsvorschau erstellen; kein weitergehender Backend-/Produktivauftrag. |
 
 ## Modellierungsgrundsätze der aktuellen Spezifikation
 

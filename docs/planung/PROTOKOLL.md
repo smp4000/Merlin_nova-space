@@ -157,6 +157,32 @@ Stack/Basis und konkreten Implementierungsschritt autorisieren; Geschäfts-/Fach
 nicht aus Bildern ableiten. Vor GitHub-Push Links/Fences und Whitespace prüfen,
 anschließend Remote-Commit abgleichen; mangels Anwendung keine Anwendungstests behaupten.
 
+## 20.10.2026 – Interaktives Dashboard
+
+Benutzer: „kannst du mal ein interaktives dashboard machen“.
+Begrenzten Mockup-Auftrag umgesetzt; Anwendungsmodule bleiben ungeplant/nicht implementiert
+soweit bisher dokumentiert. Interaktiver Entwurf im bestätigten Eisblau-Petrol-Stil.
+
+Ergebnisse:
+- `docs/mockups/11-dashboard-interaktiv.html` als lokale Vorschauquelle.
+- Übersicht, Stationen, Team, Schichtentwurf, Abwesenheiten und zentrale Vertragsansicht.
+- Station-/Demo-Rollenwechsel, offene Plätze besetzen mit Beispiel-Zeitkollision,
+  Urlaubs-/Wunschfrei-Status ändern, Station ergänzen, Einladung nur vormerken, Reset.
+- Bedien-/Grenzen-/Prüfleitfaden, Mockup-Auftrag09 sowie Status/Galerie/Übergabe aktualisiert.
+
+Browserprüfung: Darstellung angesehen, Dialoge geöffnet, stationsübergreifende
+Kollision abgewiesen, zulässige Zuordnung mit Zähleränderung verifiziert, Rollenfilter
+mit entfernter Vertragsnavigation und Beispiel-Genehmigung/Reset geprüft.
+Geschützter Inline-Rahmen erlaubte keinen normalen Formsubmit; Vorschauaktionen deshalb
+auf lokale Buttonhandler mit Validierung umgestellt. Kein echter Versand/Formularziel.
+JavaScript-Syntax geprüft. Kein Beleg für reale Backend-Rechtesicherheit oder Fachregelvollständigkeit.
+
+Nur fiktive Daten, keine Netzwerk-/Zahlungs-/DATEV-/E-Mailintegration. Die clientseitige
+Rollenwahl ist ein Designvergleich, keine echte Anmeldung. Eingetragene Demo-E-Mails
+werden nicht versandt und nicht im optionalen Hostzustand gespeichert.
+Temporärer lokaler Prüfserver ist keine Bereitstellung/Produktivveröffentlichung.
+Quelle für Rechnerwechsel im Repo sichern, nicht auf den lokalen Inline-Pfad verlassen.
+
 ## Weiterführungsregel
 
 Bei jedem Folgeauftrag Datum, Ergebnis, bestätigte Entscheidungen, offene Punkte
