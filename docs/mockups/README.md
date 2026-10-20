@@ -13,7 +13,8 @@ Status/Nummern beziehen sich auf die Planungsreihenfolge, nicht auf Implementier
 | [06](06-team-und-zugaenge.png) | Konzept, neu | Zugangsübersicht und Einladung mit Stations-/Rechteumfang. |
 | [07](07-stationsverwaltung.png) | Konzept | Stationsübersicht und Profil mit Öffnungszeiten/Zuständigkeiten. |
 | [08](08-mitarbeiter-und-einladung.png) | Konzept | Mitarbeiterliste, Einladung zum Personalfragebogen und mobiler eigener Erfassungsbereich. |
-| [09](09-schichtplanung.png) | Konzept, neueste Ansicht | Wochenentwurf, Veröffentlichungsvorschau und eigene Mitarbeiteransicht. |
+| [09](09-schichtplanung.png) | Konzept | Wochenentwurf, Veröffentlichungsvorschau und eigene Mitarbeiteransicht. |
+| [10](10-abwesenheiten.png) | Konzept, neueste Ansicht | Abwesenheitsverwaltung, eigener Urlaubsantrag und getrennte berechtigte Prüfung. |
 
 ## Bekannte Bildabweichungen – nicht als Anforderung übernehmen
 
@@ -64,6 +65,15 @@ Status/Nummern beziehen sich auf die Planungsreihenfolge, nicht auf Implementier
   Die eigene Ansicht übernimmt im Bild Organisations-Avatar/Kopf vereinfacht;
   tatsächlicher Zugang und Navigation müssen ausschließlich den eigenen Umfang zeigen.
   Pausensummen im Bild ersetzen nicht das fachlich nötige Intervall-/Besetzungsmodell.
+- 10 stellt eigene Mitarbeiteransicht und Genehmigungsansicht nebeneinander dar,
+  aber sie gehören verschiedenen berechtigten Akteuren. Keine Selbstgenehmigung.
+  30 Anspruchstage und die Vorschau von 5 Tagen sind ausdrücklich Beispieldaten,
+  kein Standardanspruch oder allgemein gültige Mo–Fr-Berechnung.
+  Vor Genehmigung muss Berechnung belastbar geprüft sein, nicht nur ein hübsches
+  Vorschau-Badge. Das Feld Ablehnungsgrund ist nur bei Ablehnung Pflicht.
+  Die Krankmeldungszahl ist ausschließlich für entsprechende Personalberechtigte;
+  Planer-/Kollegenansicht erhält keine Gesundheitsübersicht oder Diagnosen.
+  Noch keine eigene Krankheitserfassungsansicht oder eAU-Integration im Bild umgesetzt.
 
 ## Vorschauen
 
@@ -98,3 +108,7 @@ Status/Nummern beziehen sich auf die Planungsreihenfolge, nicht auf Implementier
 ### Schichtplanung
 
 ![Wochenentwurf, Prüfen und eigene Mitarbeiteransicht](09-schichtplanung.png)
+
+### Abwesenheiten
+
+![Verwaltung, eigener Urlaub und Freigabeprüfung](10-abwesenheiten.png)

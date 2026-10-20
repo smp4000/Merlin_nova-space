@@ -10,8 +10,9 @@
 6. Mitarbeiter & Mitarbeitereinladung DATEV-orientiert (Spezifikation/Prompt/Mockup
    vorhanden; Zielprogramm und Fachprofil mit Lohnstelle noch klären).
 7. Schichtplanung (Spezifikation/Prompt/Mockup vorhanden; Regeln/Freigaben noch bestätigen).
-8. Abwesenheiten und weitere Fachmodule jeweils mit eigenem Prompt und Mockup.
-9. Erst nach ausdrücklicher Freigabe eines konkreten Moduls programmieren;
+8. Abwesenheiten (Spezifikation/Prompt/Mockup vorhanden; Anspruchs-/Freigaberegeln offen).
+9. Ist-Zeiterfassung/Arbeitszeitkonto und weitere Fachmodule jeweils eigener Prompt und Mockup.
+10. Erst nach ausdrücklicher Freigabe eines konkreten Moduls programmieren;
    siehe [Umsetzungsübergabe](UMSETZUNGSUEBERGABE.md).
 
 ## Pro Modul

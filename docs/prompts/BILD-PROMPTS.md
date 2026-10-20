@@ -220,3 +220,31 @@ Footer design concept, examples, no implementation.
 
 See gallery caveats: generated open-slot helper incorrectly calls it complete;
 own assignments are separate examples and break sums do not replace actual intervals.
+
+## 10 – Abwesenheiten und eigener Urlaubsantrag
+
+```text
+Premium high-fidelity German Merlin UX board, portrait, three separated views:
+wide administrative absence list on top, own vacation request bottom left,
+authorized approval/planning-impact panel bottom right. Flat screenshots,
+approved white/ice-blue/navy/petrol, crisp line icons, cool borders and subtle shadows.
+No real health/private/bank data or diagnoses. Sidebar Abwesenheiten active;
+header „Freie Zeiten. Klar abgestimmt.“ and authorized personnel-view label.
+Counters 3 pending requests, 1 sickness report, 2 planning notes. Tabs requests,
+absence calendar, sickness reports; search and station/type/status filters.
+Rows Robin Demo vacation02–06Nov2026 preview5days; Sam Beispiel wish07Nov no
+vacation deduction; Kim Muster vacation21–23Dec preview3days. All pending.
+Note sickness is reported, not approved; scheduler sees necessary unavailability only.
+Own portal for Robin: clearly labelled sample account30entitlement,12consumed,
+8approvedfuture,10available; pending requests shown separately. Dates02–06Nov,
+5days provisional, calculation by own working pattern/calendar. Optional note
+without health details; pending until approval, separate report-sickness link.
+Review panel by another authorized actor: Robin with two assigned stations,
+5daypreview,10availablebefore/5after, two affected planned shifts, published
+plan not automatically changed. Rejection reason required only when rejecting,
+approve/reject actions, recheck authorization/account balance at save.
+Footer concept/examples/no implementation/no eAU connection.
+```
+
+See gallery: separate actors, synthetic account values and formal/factual review
+are essential; a preview is not yet final approval or universal legal entitlement.

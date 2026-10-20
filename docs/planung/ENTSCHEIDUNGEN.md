@@ -43,6 +43,12 @@ Stand: 20.10.2026. „Bestätigt“ bedeutet eine ausdrückliche Benutzeräußer
 | E36 | Offen | Veröffentlichung bei unbesetzten Plätzen, genaue Regel-/Tarif-/Ausnahmeprofile und delegierte Veröffentlichungsrechte. |
 | E37 | Vorschlag | Tauschbörse, iCal und Ist-Anbindung als spätere Ausbaustufen, keine automatische Umbesetzung durch Mitarbeiteranfrage. |
 | E38 | Bestätigt | Übergabe soll spätere Programmierung ermöglichen; daraus folgt aktuell noch kein Programmierauftrag. |
+| E39 | Bestätigt | Mit Abwesenheiten/Urlaub/Wunschfrei/Krankheit und Verfügbarkeit als nächster Planung fortfahren. |
+| E40 | Vorschlag | Urlaubskonto zunächst mit geprüften Eröffnungsansprüchen und Journal (Stufe A), automatischer Anspruchsrechner erst nach Fachfreigabe (Stufe B). |
+| E41 | Vorschlag | Offene Urlaubsanträge separat zeigen, Reservierung erst bei Genehmigung; keine doppelte Belastung bei Verbrauch. |
+| E42 | Offen | Verbindlichkeit bestätigter Wunschfrei-/Verfügbarkeitsangaben und konkrete Vertretungs-/Entscheidungsrechte. |
+| E43 | Vorschlag | Krankheit/Nachweis getrennt, keine Krankheitsgenehmigung/Diagnosepflicht; eAU eigener späterer Integrationsauftrag. |
+| E44 | Offen | Arbeitstage-/Feiertags-/Anspruchsprofile, Sonderfälle, Fristen/Verfall und Gesundheitsdatenschutz vor Produktivbetrieb fachlich klären. |
 
 ## Modellierungsgrundsätze der aktuellen Spezifikation
 

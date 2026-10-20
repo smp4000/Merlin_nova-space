@@ -131,6 +131,32 @@ Abwesenheiten/Urlaub/Wunschfrei/Krankheit als Datenbasis für den Planer.
 Vor GitHub-Sicherung Markdown-Verweise/Fences und Whitespace prüfen. Nach Push
 lokalen/Remote-Commit vergleichen. Anwendungstests sind mangels Anwendung kein Prüfresultat.
 
+## 20.10.2026 – Abwesenheiten, Urlaub, Krankheit und Verfügbarkeit
+
+Benutzer sagte „weiter“ nach vorgeschlagenem Abwesenheitsmodul. Planungsmodus
+und fortlaufende GitHub-Sicherung beibehalten. Remote vor Bearbeitung gleichauf.
+
+Erstellt:
+- ABWESENHEITEN.md: Arten, Rechte, Antrags-/Melde-/Nachweiszustände, Urlaubsanspruch
+  Stufe A/B, Arbeitstageberechnung/Journal, Mehrstationeneinsatz, Entscheidungen,
+  Krankheit/Urlaubsüberschneidung, Verfügbarkeit, Planwirkung und Abnahmefälle.
+- Prompt 08 und offizieller Quellenleitfaden für Urlaub, Verfall, Anzeige/Nachweis und eAU.
+- Mockup 10: Verwaltung, eigener Urlaubsantrag und Personal-Prüfansicht mit Planhinweis.
+- Status, Entscheidungen, AGENTS, README, Bildbriefing und Umsetzungsübergabe aktualisiert.
+
+Wichtige Vorschläge/Abgrenzungen: geprüfter Eröffnungsanspruch vor Vollautomatik,
+ein Konto je Arbeitgeber statt doppeltem Stationsverbrauch, keine Selbstgenehmigung,
+Krankheit wird gemeldet, Nachweis beeinflusst nicht automatisch Einsatzverfügbarkeit,
+keine Diagnosen im Plan, kein pauschaler kalenderbasierter Urlaubsverfall.
+GKV-Quellen zeigen verschiedene Gültigkeitsversionen, nicht als bereits implementierten
+eAU-Abruf oder aktuelle pauschale Feldliste missverstehen. Keine Gesundheits-/Personaldaten
+echter Personen ins öffentliche Repository aufgenommen. Alle Bilder verwenden Beispieldaten.
+
+Nächster Vorschlag: Ist-Zeiterfassung/Arbeitszeitkonto. Vor Programmierung weiterhin
+Stack/Basis und konkreten Implementierungsschritt autorisieren; Geschäfts-/Fachentscheidungen
+nicht aus Bildern ableiten. Vor GitHub-Push Links/Fences und Whitespace prüfen,
+anschließend Remote-Commit abgleichen; mangels Anwendung keine Anwendungstests behaupten.
+
 ## Weiterführungsregel
 
 Bei jedem Folgeauftrag Datum, Ergebnis, bestätigte Entscheidungen, offene Punkte

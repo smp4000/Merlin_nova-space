@@ -33,6 +33,9 @@ Eine spätere ausdrückliche Implementierungsanweisung darf diesen Modus ändern
 - Schichtentwurf, veröffentlichte Version und Ist-Zeit trennen. Regelprüfung stations-/
   wochenübergreifend mit gültigem Regelprofil; keine pauschale rechtliche Freigabe
   oder freie Umgehung gesetzlicher Grenzen durch einen Begründungstext.
+- Abwesenheiten: Urlaub beantragen/entscheiden, Krankheit melden, Nachweis klären
+  und Verfügbarkeit getrennt führen. Keine Selbstgenehmigung, Diagnosen im Plan oder
+  automatische Urlaubsverfalls-/eAU-Erfolgsbehauptungen. Konto je Arbeitgeber, nicht je Station.
 - Dieses Repository ist öffentlich. Keine Zugangsdaten, echten Bank-/Personal-/Kundendaten oder ungeprüften Projektarchive hochladen.
 
 ## Fortschritt fortschreiben

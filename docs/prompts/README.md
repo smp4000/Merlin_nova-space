@@ -12,6 +12,7 @@ Sie sind keine wörtlichen vollständigen Chat-Transkripte. Noch keine Implement
 | 05 | [Stationsverwaltung](05-stationsverwaltung.md) | Stammdaten, Öffnungszeiten, Zuständigkeiten, Pause/Archiv und Systemgrenzen. |
 | 06 | [Mitarbeiter & Mitarbeitereinladung](06-mitarbeiter-und-einladung.md) | DATEV-orientierte Felder, Selbsterfassung, Prüfung und Personal-/Lohnrechte. |
 | 07 | [Schichtplanung](07-schichtplanung.md) | Vorlagen, Zeit-/Regelmodell, Veröffentlichung und eigene Mitarbeiteransicht. |
+| 08 | [Abwesenheiten](08-abwesenheiten.md) | Urlaubskonto, Antrag/Freigabe, Krankmeldung/Nachweis, Wunschfrei und Planwirkung. |
 | Bilder | [Bildbriefings](BILD-PROMPTS.md) | Rekonstruierte Briefings aller generierten Mockups. |
 
 Vor späterer Programmierung jeweiligen Prompt ausdrücklich auf Umsetzung umstellen,

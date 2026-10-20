@@ -31,6 +31,8 @@ Ausführliche Anleitung: [Rechnerwechsel](docs/leitfaeden/RECHNERWECHSEL.md).
 | DATEV-Grundlage und Grenzen | [Rechercheleitfaden](docs/leitfaeden/DATEV-GRUNDLAGE.md) |
 | Schichtplanung im Detail | [Spezifikation](docs/planung/SCHICHTPLANUNG.md) |
 | Regelprüfung und Quellen | [Regelleitfaden](docs/leitfaeden/RECHERCHE-SCHICHTREGELN.md) |
+| Abwesenheiten und Urlaubskonto | [Spezifikation](docs/planung/ABWESENHEITEN.md) |
+| Urlaub, Krankmeldung und eAU – Quellen | [Rechercheleitfaden](docs/leitfaeden/RECHERCHE-ABWESENHEITEN.md) |
 | Spätere Programmierung am anderen Rechner | [Umsetzungsübergabe und Startprompt](docs/leitfaeden/UMSETZUNGSUEBERGABE.md) |
 | Datenschutz und SEPA | [Planungsleitfaden](docs/leitfaeden/DATENSCHUTZ-UND-SEPA.md) |
 | Modul-Prompts | [Übersicht](docs/prompts/README.md) |
@@ -41,11 +43,15 @@ Ausführliche Anleitung: [Rechnerwechsel](docs/leitfaeden/RECHNERWECHSEL.md).
 
 ![Landingpage im gewünschten Eisblau-Petrol-Stil](docs/mockups/02-landing-freigegebener-stil.png)
 
-## Schichtplanung – aktueller Entwurf
+## Abwesenheiten – aktueller Entwurf
+
+![Verwaltung, eigener Urlaubsantrag und Prüfung](docs/mockups/10-abwesenheiten.png)
+
+## Schichtplanung
 
 ![Wochenentwurf, Veröffentlichung und eigene Mitarbeiteransicht](docs/mockups/09-schichtplanung.png)
 
-Umsetzung später modulweise nach ausdrücklichem Auftrag; neun Mockups sind vorhanden,
+Umsetzung später modulweise nach ausdrücklichem Auftrag; zehn Mockups sind vorhanden,
 aber noch kein Anwendungscode und nicht sämtliche späteren Fachmodule fertig spezifiziert.
 
 ## Mitarbeiter & Mitarbeitereinladung

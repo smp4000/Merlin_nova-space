@@ -4,9 +4,9 @@ Stand: 20.10.2026, Europe/Berlin. Phase: **Planung und Mockups**.
 
 ## Letzter Benutzerauftrag
 
-Schichtplanung wie vorgeschlagen weiterplanen und so dokumentieren, dass später
-auf dem anderen Rechner modulweise programmiert werden kann. Fachspezifikation,
-Modul-Prompt, Mockup, GitHub-Ablage und konkrete Umsetzungsübergabe aktualisieren.
+Mit „weiter“ nächste vorgeschlagene Planung Abwesenheiten/Urlaub/Wunschfrei/
+Krankheit/Verfügbarkeit fortführen und für spätere Programmierung dokumentieren.
+Fachspezifikation, Modul-Prompt, Mockup, GitHub-Ablage und Übergabe aktualisieren.
 **Noch nichts programmieren.**
 
 ## Vorhandene Ergebnisse
@@ -25,7 +25,10 @@ Modul-Prompt, Mockup, GitHub-Ablage und konkrete Umsetzungsübergabe aktualisier
 - Schichtplanung mit Vorlagen/Entwurf, Prüfungen, versionierter Veröffentlichung,
   Benachrichtigungen, eigener Mitarbeiteransicht und abgegrenztem Tauschausbau; Prompt 07.
 - Regelrecherche mit offiziellen Quellen und Gültigkeits-/Prüfgrenzen.
-- Neun Mockups insgesamt, zuletzt Wochenplan, Prüfansicht und eigener Schichtplan.
+- Abwesenheiten mit Arten-/Rechte-/Zustandsmatrix, Urlaubsjournal, Krankmeldung
+  und getrenntem Nachweisstatus, Planwirkung und Verfügbarkeit; Prompt 08.
+- Offizielle Quellen zu Urlaub, Verfall, Krankmeldung und eAU-Grenzen.
+- Zehn Mockups insgesamt, zuletzt Verwaltungsansicht, eigener Antrag und Genehmigungsprüfung.
 - Umsetzungsübergabe für neuen Rechner mit Modulreihenfolge, offenen Voraussetzungen
   und späterem Startprompt; keine automatische Programmierfreigabe.
 - Datenschutz-/SEPA-Leitfaden mit Quellen und offenen Punkten.
@@ -33,12 +36,12 @@ Modul-Prompt, Mockup, GitHub-Ablage und konkrete Umsetzungsübergabe aktualisier
 
 ## Nächste sinnvolle Arbeit
 
-1. Als nächste fachliche Planung Abwesenheiten/Urlaub/Wunschfrei/Krankheit und
-   Verfügbarkeit vorschlagen: Schichtplanung braucht genehmigte/festgestellte Intervalle.
-2. Schichtregeln, Veröffentlichung mit offenen Plätzen, Leitungsrechte und
-   notwendige Daten-/Tarif-/Schutzprofile bestätigen, keine Rechtsgarantie ableiten.
-3. DATEV-Zielprogramm und Mitarbeiter-/Arbeitgeber-/Übergabemodell bleiben offen.
-4. Weitere offene Stations-/Rollen-/Aboentscheidungen nach Priorität besprechen.
+1. Als nächstes Fachmodul Ist-Zeiterfassung/Arbeitszeitkonto vorschlagen,
+   damit Plan, tatsächlich geleistete Zeit, Pausen und Korrekturen getrennt bleiben.
+2. Urlaubskonto Stufe A/B, Arbeitstage-/Feiertagsgrundlage, Wunschfrei-Wirkung,
+   Freigabe/Vertretung und Gesundheitsdatenrechte bestätigen.
+3. Schichtregel-/Tarif-/Schutzprofile, offene Plätze und Veröffentlichungsrechte klären.
+4. DATEV-/Arbeitgebermodell und übrige Stations-/Rollen-/Aboentscheidungen bleiben offen.
 5. Für Programmierung am neuen Rechner UMSETZUNGSUEBERGABE lesen und Stack/Basis
    plus konkreten ersten Implementierungsschritt ausdrücklich beauftragen.
 6. Bis dahin weiterhin keine Anwendung programmieren.
@@ -61,7 +64,10 @@ Modul-Prompt, Mockup, GitHub-Ablage und konkrete Umsetzungsübergabe aktualisier
 - Personalfragebogenprofile, genaue Personal-/Lohnrechte und Erfassungs-Authentifizierung.
 - Schichtregelprofile/Tarif-/Ausnahmegrundlagen, Planveröffentlichung mit offenen Plätzen,
   Freigaberechte, Einbeziehung von Fremdzeiten und Abwesenheits-Datenvertrag.
-- Abwesenheiten/Urlaubsanspruch, Ist-Zeit und weitere Fachmodule noch nicht detailliert geplant.
+- Abwesenheiten sind jetzt detailliert geplant, fachliche Anspruchsprofile/Regeln und
+  Automatisierungsgrad noch nicht bestätigt; Ist-Zeit und weitere Fachmodule noch offen.
+- Wunschfrei-Verbindlichkeit, Schicht-/Arbeitstagekalender, Korrektur-/Verfallsprofile,
+  Nachweisumfang/eAU-Anbieter und konkrete Datenaufbewahrung.
 
 ## Technischer Zustand
 

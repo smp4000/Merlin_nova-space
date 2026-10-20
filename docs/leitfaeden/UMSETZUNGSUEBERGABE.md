@@ -7,16 +7,17 @@ Mandaten, Zahlungen, Deployment oder Datenmigration.
 ## 1. Was tatsächlich vorhanden ist
 
 GitHub enthält Planungen/Prompts für Landing, Partnerregistrierung/SEPA,
-Partner-Dashboard, Team/Zugänge, Stationen, Mitarbeiter/Einladung und Schichtplanung.
-Neun Mockups zeigen diese Bereiche. Es gibt keinen neuen Anwendungscode, keine
+Partner-Dashboard, Team/Zugänge, Stationen, Mitarbeiter/Einladung, Schichtplanung
+und Abwesenheiten/Urlaubskonto. Zehn Mockups zeigen diese Bereiche. Es gibt keinen neuen Anwendungscode, keine
 installierten Abhängigkeiten, Datenbank, Live-Integration oder bestandene Anwendungstests.
 Alte Laravel-/Android-Archive wurden lokal statisch betrachtet, sind aber nicht auf GitHub.
 Implementierungstechnologie und konkreter Übernahmeumfang sind noch offen.
 
 Die Planungen reichen als detaillierte Arbeitsgrundlage. Sie bedeuten nicht, dass alle
 Geschäfts-/Rechtsfragen oder sämtliche späteren Fachmodule abgeschlossen sind.
-Abwesenheiten/Urlaubsanspruch, Ist-Zeiterfassung, DATEV-Export, Artikel/MHD/Kasse,
-Geräte/Druck usw. benötigen eigene bestätigte Spezifikationen bzw. Abgrenzung.
+Ist-Zeiterfassung, DATEV-Export, Artikel/MHD/Kasse, Geräte/Druck usw. benötigen
+eigene bestätigte Spezifikationen bzw. Abgrenzung. Die Abwesenheitsplanung liegt vor,
+ihre Anspruchsprofile und sonstigen offenen Fachregeln müssen noch bestätigt werden.
 
 ## 2. Einstieg am neuen Rechner
 
@@ -77,7 +78,9 @@ Dashboard aus vorhandenen echten Zuständen. Vorlagen/Entwurf/Zeiten/Pausen/Zuor
 Konfliktprüfung, fachlich freigegebene Regeln, Versionierung/Veröffentlichung,
 Benachrichtigungs-Queue und eigene Mitarbeiteransicht.
 Verträge, Abwesenheitsdaten und Zeitzonen müssen belastbar bereitstehen.
-Abwesenheitsmodul zuerst minimal gesondert spezifizieren, nicht eine Anfrage als genehmigt behandeln.
+Das vorliegende Abwesenheitsmodul mit bestätigter Arten-/Rechtematrix und geprüftem
+Eröffnungsanspruch/Journal (vorgeschlagene Stufe A) vor endgültiger Planintegration umsetzen.
+Nicht eine Anfrage als genehmigt behandeln und Krankheit keinem Genehmigungsvorbehalt unterwerfen.
 Tausch, iCal und Ist-Zeit nicht unbemerkt in erste Kernstufe einbauen.
 
 ### F – Externe/weitere Fachmodule
@@ -120,7 +123,8 @@ Aktualisiere Fortschritt/Anleitung und sichere Änderungen nachvollziehbar im Re
 
 ## 7. Noch zu besprechende nächste Planung
 
-Urlaub, Wunschfrei, Krankheit/andere Abwesenheiten und Verfügbarkeit als eigenes Modul,
-weil Schichtplanung einen klaren Unterschied zwischen Wunsch, Antrag und genehmigter
-bzw. festgestellter Abwesenheit braucht. Keine Diagnosen im Plan. Danach weitere
-Fachbereiche priorisieren, statt jetzt alle unbekannten Prozesse zu programmieren.
+Ist-Zeiterfassung und Arbeitszeitkonto: reale Kommen-/Gehen-/Pausenzeiten, Nachträge,
+Korrekturen, Bestätigung und Abgleich mit Plan/Abwesenheit. Kein automatischer
+Ist-/Lohnwert aus dem veröffentlichten Plan. Die vorliegende Abwesenheitsplanung
+unterscheidet Wunsch/Antrag/Freigabe und Krankmeldung; konkrete Profile noch bestätigen.
+Weitere Fachbereiche priorisieren, statt jetzt unbekannte Prozesse zu programmieren.
