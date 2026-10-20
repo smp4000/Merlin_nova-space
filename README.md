@@ -22,6 +22,7 @@ Ausführliche Anleitung: [Rechnerwechsel](docs/leitfaeden/RECHNERWECHSEL.md).
 | Bereich | Einstieg |
 |---|---|
 | Super-Admin: Landing & Preise | [Fachspezifikation](docs/planung/SUPER-ADMIN-LANDING-UND-PREISE.md) · [Prompt 10](docs/prompts/10-super-admin-landing-und-preise.md) |
+| Grundpaket & Zusatzmodule | [Abrechnungsmodell und Beispiele](docs/planung/GRUNDPAKET-UND-ZUSATZMODULE.md) · [Prompt 11](docs/prompts/11-grundpaket-und-zusatzmodule.md) |
 | Aktueller Stand | [STATUS](docs/planung/STATUS.md) |
 | Interaktives Dashboard | [Vorschauquelle](docs/mockups/11-dashboard-interaktiv.html) · [Bedienung](docs/leitfaeden/DASHBOARD-INTERAKTIV.md) |
 | Entscheidungen/offene Punkte | [ENTSCHEIDUNGEN](docs/planung/ENTSCHEIDUNGEN.md) |

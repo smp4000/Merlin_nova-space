@@ -4,11 +4,15 @@ Stand: 20.10.2026, Europe/Berlin. Phase: **Planung und Mockups**.
 
 ## Letzter Benutzerauftrag
 
-Super-Admin soll sämtliche Landing-Inhalte einschließlich Modulpreisen zentral steuern.
-Fachspezifikation, Prompt 10 und Mockup 12 ergänzen den Planungsstand.
-Keine produktive Anwendung implementiert; konkrete Preise weiterhin offen.
+Grundpaket und Zusatzmodule sowie Abrechnung je Firma/Station ausarbeiten.
+Empfohlenes Hybridmodell detailliert dokumentiert: Grundpaket mit einer Station,
+weitere Stationsrechte und Zusatzpakete je ausgewählter Station, zentrale Rechnung.
+Modell und Änderungsregeln sind Vorschläge, Beträge offen. Keine Programmierung.
 
 ## Vorhandene Ergebnisse
+
+- Grundpaket-/Zusatzmodulplanung mit Paketmatrix, Mengenformel, Beispielen,
+  Stationsbuchungen, Zeitanteilen, Rechnungsaufbau und Abnahmeszenarien; Prompt 11.
 
 - Statische Bestandsanalyse zweier alter Archive, zusammengefasst in BESTAND.md.
 - Landingpage-Mockup: erster Entwurf und bestätigte Eisblau-Petrol-Richtung.
@@ -40,8 +44,9 @@ Keine produktive Anwendung implementiert; konkrete Preise weiterhin offen.
 
 ## Nächste sinnvolle Arbeit
 
-1. Super-Admin-Planung besprechen: Paket/Add-ons, Preisbezugsgröße und Freigaberechte;
-   danach Beträge, Intervalle und Vertrags-/Bestandskundenregeln festlegen.
+1. Hybridmodell bestätigen/anpassen: erste Station inklusive, Basisumfang, gemeinsames
+   Personalpaket je ausgewählter Station und monatlicher Start mit Änderungsregeln.
+   Danach Trialumfang, Vertragsregeln, Beträge und Abrechnungsgrundlagen festlegen.
 2. Als nächstes Fachmodul Ist-Zeiterfassung/Arbeitszeitkonto vorschlagen,
    damit Plan, tatsächlich geleistete Zeit, Pausen und Korrekturen getrennt bleiben.
 3. Urlaubskonto Stufe A/B, Arbeitstage-/Feiertagsgrundlage, Wunschfrei-Wirkung,
@@ -77,7 +82,7 @@ Keine produktive Anwendung implementiert; konkrete Preise weiterhin offen.
 
 ## Technischer Zustand
 
-Repository enthält Planungsdateien, zehn Bilder und eine lokal interaktive HTML-Vorschau;
+Repository enthält Planungsdateien, elf Bilder und eine lokal interaktive HTML-Vorschau;
 keine neue produktive Anwendung, Datenbank oder Backend-Authentifizierung.
 Laravel und Kotlin aus Altarchiven wurden nicht installiert/gestartet und nicht getestet.
 Lokale `analysis-source/`-Ordner sind ignoriert und auf dem neuen Rechner nicht vorhanden.

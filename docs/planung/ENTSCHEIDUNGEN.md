@@ -53,6 +53,11 @@ Stand: 20.10.2026. „Bestätigt“ bedeutet eine ausdrückliche Benutzeräußer
 | E46 | Bestätigt | Super-Admin soll sämtliche Landing-Inhalte einschließlich Modulpreisen zentral steuern können. |
 | E47 | Vorschlag | Entwurf/Veröffentlichung sowie Inhalts-, Preis- und Angebotsversionen trennen; neue öffentliche Preise ändern bestehende Verträge nicht automatisch. |
 | E48 | Offen | Paket-/Add-on-Struktur, Preisbezugsgröße, Beträge, Intervalle, Steuerdarstellung, Bestandskundenänderung und konkrete Publisherrechte. |
+| E49 | Bestätigt | Grundpaket/Zusatzmodule und Abrechnung Firma/Station ausplanen, Beträge offen, keine Programmierung, alles auf GitHub sichern. |
+| E50 | Vorschlag | Ein Grundpaket je Vertragspartner mit einer Station, weitere Stationsrechte und Zusatzpakete je ausgewählter Station; zentrale Rechnung. |
+| E51 | Vorschlag | Team/Zugänge und Stationsbasis inklusive; Personal, Schichtplanung und Abwesenheiten als gemeinsames Zusatzpaket, keine Kopfgebühren zum Start. |
+| E52 | Vorschlag | Monatlicher gemeinsamer Zyklus, bestätigte Erweiterung zeitanteilig, Reduzierung zum zulässigen Periodenende; Stationsstatus beendet keine Buchung automatisch. |
+| E53 | Offen | Hybrid-/Paketumfang, Trialumfang, Änderungs-/Fristenregeln, Beträge, Steuer-/Rundungs-/Zeitzonenmodell und Zahlungs-/Rechnungsverfahren bestätigen. |
 
 ## Modellierungsgrundsätze der aktuellen Spezifikation
 

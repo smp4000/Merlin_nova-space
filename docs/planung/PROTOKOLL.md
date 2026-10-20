@@ -200,6 +200,23 @@ Keine Produktion programmiert, kein Zahlungs-/Kundenprozess ausgelöst.
 Nächste Entscheidung: Paket-/Zusatzmodulmodell, Bezugsgröße, dann Preise/Intervalle
 und Vertragsregeln. Übergabe und Indizes aktualisiert. Git-Sicherung separat prüfen.
 
+## 20.10.2026 – Grundpaket, Zusatzmodule und Abrechnung
+
+Auftrag: Grundpaket/Add-ons und Bezugsgröße planen, Preise offen lassen, nichts
+programmieren und GitHub/Übergabe aktualisieren. Fachspezifikation GRUNDPAKET-UND-
+ZUSATZMODULE.md und Modul-Prompt 11 erstellt; keine neue Bildvariante erforderlich.
+
+Empfehlungen, noch nicht bestätigt: Grundpaket pro Vertragspartner mit einer Station,
+weitere Stationsrechte und Zusatzpakete pro ausgewählter Station; zentrale Rechnung.
+Personal/Schichtplanung/Abwesenheiten als Paket, Basisrechte und Schutzfunktionen inklusive.
+Monatlicher Zyklus, Erweiterung zeitanteilig nach Bestätigung, Reduzierung zum zulässigen
+Periodenende. Buchungszustand unabhängig von Stationsstatus/Archivierung.
+Mengenbeispiele für 1/3/12/100 Stationen ohne Preise, Rechnungsaufteilung, Trial-/SEPA-
+Grenzen, Datenobjekte und spätere Abnahme dokumentiert. Kein echter Vertrag/Zahlungsfluss.
+
+Nächster Schritt: Vorschläge zu Paketumfang/Bezugsgröße/Änderungsregeln bestätigen,
+danach Trialumfang und Vertrags-/Abrechnungsgrundlagen. Git-Status separat prüfen.
+
 ## Weiterführungsregel
 
 Bei jedem Folgeauftrag Datum, Ergebnis, bestätigte Entscheidungen, offene Punkte

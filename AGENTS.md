@@ -64,3 +64,11 @@ Plattformbetreiber. Vor Arbeit daran SUPER-ADMIN-LANDING-UND-PREISE.md und Promp
 lesen. CMS-Entwurf, Veröffentlichung, Modulverfügbarkeit und Kundenberechtigung trennen.
 Preise bleiben offen. Veröffentlichte Preisänderungen dürfen nicht still bestehende
 Verträge umschreiben. Diese Planung erteilt keinen produktiven Programmierauftrag.
+
+## Grundpaket und Zusatzmodule
+
+Prompt 11 und GRUNDPAKET-UND-ZUSATZMODULE.md enthalten einen noch unbestätigten
+Hybridvorschlag: Grundpaket mit einer Station, weitere Stationsrechte und Zusatzpakete
+je ausgewählter Station, zentrale Rechnung. Paketumfang, monatlicher Zyklus und
+Zeitanteils-/Reduzierungsregeln sind Empfehlungen. Nicht als beschlossene Preise oder
+Programmierfreigabe behandeln. Stationsstatus ist nicht Vertrags-/Abrechnungszustand.

@@ -212,3 +212,10 @@ Registrierung/Angebotskopie → ausdrücklich freigegebener Zahlungsprozess.
 
 Mockup: [Super-Admin](../mockups/12-super-admin-landing-und-preise.png).
 Arbeitsauftrag: [Modul-Prompt 10](../prompts/10-super-admin-landing-und-preise.md).
+
+## Ergänzung: konkreter Modellvorschlag
+
+[Grundpaket und Zusatzmodule](GRUNDPAKET-UND-ZUSATZMODULE.md) konkretisiert die bisher
+offenen Paket-/Bezugsgrößenfragen als Vorschlag: Grundpaket inklusive einer Station,
+weitere Stationsrechte und Zusatzpakete je ausgewählter Station. Noch keine bestätigte
+Preispolitik; numerische Preise, Vertrags-/Steuerfragen bleiben offen.

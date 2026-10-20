@@ -67,6 +67,15 @@ Keine Preisduplikate im Landingtext und Zahlungsprozess. Offene Preise blockiere
 bezahlten Abschluss. Bestehende Vertragskopien bleiben bei neuen Preisen unverändert.
 Keine Kundenfunktion durch bloße Landing-Sichtbarkeit aktivieren.
 
+### A3 – Paket-/Abrechnungsmodell bestätigen
+
+[Fachspezifikation](../planung/GRUNDPAKET-UND-ZUSATZMODULE.md) und Prompt 11 enthalten
+Vorschläge, keine fest beschlossene Preispolitik: Grundpaket mit einer Station,
+weitere Stationsrechte, Zusatzpakete je ausgewählter Station und zentrale Rechnung.
+Vor Checkout Paketumfang, Intervall, Zeitanteile, Fristen, Steuer/Rundung, Trialumfang
+und bezahlten Übergang bestätigen. Stationsstatus ist kein Abrechnungszustand.
+Keine automatische Buchung durch Einladung/Schichtanlage oder Kündigung durch Archivierung.
+
 ### B – Partner und Registrierung
 
 Öffentliche Landing, Konto/E-Mail, Vertragspartner/Rechnung, Setup-Entwurf,

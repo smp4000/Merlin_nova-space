@@ -15,6 +15,7 @@ Sie sind keine wörtlichen vollständigen Chat-Transkripte. Noch keine Implement
 | 08 | [Abwesenheiten](08-abwesenheiten.md) | Urlaubskonto, Antrag/Freigabe, Krankmeldung/Nachweis, Wunschfrei und Planwirkung. |
 | 09 | [Interaktives Dashboard](09-dashboard-interaktiv.md) | Begrenzter Mockup-Auftrag mit lokalen Interaktionen, kein Backendmodul. |
 | 10 | [Super-Admin: Landing & Preise](10-super-admin-landing-und-preise.md) | CMS, Modulkatalog, Preisversionen, Veröffentlichung und Vertragsgrenzen. |
+| 11 | [Grundpaket & Zusatzmodule](11-grundpaket-und-zusatzmodule.md) | Hybridmodell, Paketumfang, Stationsbuchungen, Rechnung und Änderungsregeln als Vorschläge. |
 | Bilder | [Bildbriefings](BILD-PROMPTS.md) | Rekonstruierte Briefings aller generierten Mockups. |
 
 Vor späterer Programmierung jeweiligen Prompt ausdrücklich auf Umsetzung umstellen,
