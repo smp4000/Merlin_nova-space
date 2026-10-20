@@ -5,6 +5,7 @@ Sie sind keine wörtlichen vollständigen Chat-Transkripte. Noch keine Implement
 
 | Reihenfolge | Datei | Inhalt |
 |---|---|---|
+| 00 | [Entwicklungsumgebung](00-entwicklungsumgebung.md) | Späterer begrenzter Einrichtungsauftrag: Laravel/Filament aktuell stabil, MySQL, getrennte Dev-/Testbasis. |
 | 01 | [Landing](01-landing.md) | Neu aus der freigegebenen Planung konsolidiertes Landing-Briefing. |
 | 02 | [Partnerregistrierung](02-partnerregistrierung.md) | Bisheriger Modulauftrag mit SEPA und offenen Entscheidungen. |
 | 03 | [Partner-Dashboard](03-partner-dashboard.md) | Erster Einstieg und Übergang zur Arbeitsübersicht. |
@@ -16,6 +17,7 @@ Sie sind keine wörtlichen vollständigen Chat-Transkripte. Noch keine Implement
 | 09 | [Interaktives Dashboard](09-dashboard-interaktiv.md) | Begrenzter Mockup-Auftrag mit lokalen Interaktionen, kein Backendmodul. |
 | 10 | [Super-Admin: Landing & Preise](10-super-admin-landing-und-preise.md) | CMS, Modulkatalog, Preisversionen, Veröffentlichung und Vertragsgrenzen. |
 | 11 | [Grundpaket & Zusatzmodule](11-grundpaket-und-zusatzmodule.md) | Hybridmodell, Paketumfang, Stationsbuchungen, Rechnung und Änderungsregeln als Vorschläge. |
+| 12 | [Mein Abo](12-mein-abo.md) | Stationsauswahl, Zusatzpakete, Prüfangebot, Bestätigung, Vormerkungen und Rechnungen. |
 | Bilder | [Bildbriefings](BILD-PROMPTS.md) | Rekonstruierte Briefings aller generierten Mockups. |
 
 Vor späterer Programmierung jeweiligen Prompt ausdrücklich auf Umsetzung umstellen,

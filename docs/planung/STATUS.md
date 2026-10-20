@@ -4,12 +4,17 @@ Stand: 20.10.2026, Europe/Berlin. Phase: **Planung und Mockups**.
 
 ## Letzter Benutzerauftrag
 
-Grundpaket und Zusatzmodule sowie Abrechnung je Firma/Station ausarbeiten.
-Empfohlenes Hybridmodell detailliert dokumentiert: Grundpaket mit einer Station,
-weitere Stationsrechte und Zusatzpakete je ausgewählter Station, zentrale Rechnung.
-Modell und Änderungsregeln sind Vorschläge, Beträge offen. Keine Programmierung.
+Paketmodell bestätigt. Mein Abo mit Stations-/Modulauswahl, Änderungsprüfung,
+Vormerkungen, Rechnungen und Mockup 13 detailliert geplant; Prompt 12.
+Zusätzlich Start-Prompt 00 für spätere lokale Laravel-/Filament-/MySQL-Einrichtung
+erstellt. Jetzt nichts installiert/programmiert; Preise und Detailvertragsfragen offen.
 
 ## Vorhandene Ergebnisse
+
+- Mein-Abo-Spezifikation/Prompt 12: Rechte, Stationsauswahl, Abhängigkeiten,
+  Angebotsprüfung, Bestätigung, Vormerkung/Rücknahme, Konflikte und Abnahme.
+- Prompt 00: begrenzte spätere Entwicklungsbasis, Versionsprüfung, MySQL statt MariaDB,
+  getrennte Dev-/Testdatenbank, Secretschutz, Basisprüfungen und Startdokumentation.
 
 - Grundpaket-/Zusatzmodulplanung mit Paketmatrix, Mengenformel, Beispielen,
   Stationsbuchungen, Zeitanteilen, Rechnungsaufbau und Abnahmeszenarien; Prompt 11.
@@ -31,7 +36,7 @@ Modell und Änderungsregeln sind Vorschläge, Beträge offen. Keine Programmieru
 - Abwesenheiten mit Arten-/Rechte-/Zustandsmatrix, Urlaubsjournal, Krankmeldung
   und getrenntem Nachweisstatus, Planwirkung und Verfügbarkeit; Prompt 08.
 - Offizielle Quellen zu Urlaub, Verfall, Krankmeldung und eAU-Grenzen.
-- Elf Bildmockups einschließlich Super-Admin für Landing, Module und Preise.
+- Zwölf Bildmockups einschließlich Super-Admin für Landing, Module und Preise.
 - Super-Admin-Spezifikation: CMS, Modulkatalog, Preisversionen, Veröffentlichung, Rechte
   und Trennung von öffentlichen Angeboten und bestehenden Verträgen; Prompt 10.
 - Zusätzlich interaktiver HTML-Entwurf 11: Stations-/Demo-Rollenwechsel, Navigation,
@@ -44,9 +49,10 @@ Modell und Änderungsregeln sind Vorschläge, Beträge offen. Keine Programmieru
 
 ## Nächste sinnvolle Arbeit
 
-1. Hybridmodell bestätigen/anpassen: erste Station inklusive, Basisumfang, gemeinsames
-   Personalpaket je ausgewählter Station und monatlicher Start mit Änderungsregeln.
-   Danach Trialumfang, Vertragsregeln, Beträge und Abrechnungsgrundlagen festlegen.
+1. Mein-Abo-Ansichten und neue Detailabläufe besprechen; Trialumfang, Fristen,
+   Preisregel für spätere Zubuchungen und Datenzugriff nach Paketende festlegen.
+   Danach Beträge und Abrechnungsgrundlagen. Einrichtung nur später per ausdrücklichem
+   Start von Prompt 00, nicht automatisch aus diesem Dokument.
 2. Als nächstes Fachmodul Ist-Zeiterfassung/Arbeitszeitkonto vorschlagen,
    damit Plan, tatsächlich geleistete Zeit, Pausen und Korrekturen getrennt bleiben.
 3. Urlaubskonto Stufe A/B, Arbeitstage-/Feiertagsgrundlage, Wunschfrei-Wirkung,
@@ -60,7 +66,7 @@ Modell und Änderungsregeln sind Vorschläge, Beträge offen. Keine Programmieru
 ## Noch nicht entschieden / nicht fertig
 
 - Automatischer kostenpflichtiger Übergang oder aktive Abo-Bestätigung.
-- Preise, Tarifgrenzen unterhalb von 100, Abrechnungsturnus, Kündigungsregeln.
+- Preise, Tarifgrenzen unterhalb von 100, konkrete Kündigungsregeln; monatlicher Start ist bestätigt.
 - SEPA-Zahlungsanbieter, Basis-/Firmenlastschrift, Gläubiger-ID und freigegebener Text.
 - Rechtliche Betreiberangaben, Verträge, Aufbewahrungsfristen und Hosting.
 - Endgültiger Rollen-/Rechtekatalog; separate Buchhaltungsrolle optional.
@@ -82,7 +88,7 @@ Modell und Änderungsregeln sind Vorschläge, Beträge offen. Keine Programmieru
 
 ## Technischer Zustand
 
-Repository enthält Planungsdateien, elf Bilder und eine lokal interaktive HTML-Vorschau;
+Repository enthält Planungsdateien, zwölf Bilder und eine lokal interaktive HTML-Vorschau;
 keine neue produktive Anwendung, Datenbank oder Backend-Authentifizierung.
 Laravel und Kotlin aus Altarchiven wurden nicht installiert/gestartet und nicht getestet.
 Lokale `analysis-source/`-Ordner sind ignoriert und auf dem neuen Rechner nicht vorhanden.

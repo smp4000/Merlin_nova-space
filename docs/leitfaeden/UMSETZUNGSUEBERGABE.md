@@ -8,7 +8,7 @@ Mandaten, Zahlungen, Deployment oder Datenmigration.
 
 GitHub enthält Planungen/Prompts für Landing, Partnerregistrierung/SEPA,
 Partner-Dashboard, Team/Zugänge, Stationen, Mitarbeiter/Einladung, Schichtplanung
-und Abwesenheiten/Urlaubskonto sowie Super-Admin für Landing/Module/Preise. Elf Bildmockups und eine interaktive HTML-Vorschau
+und Abwesenheiten/Urlaubskonto sowie Super-Admin für Landing/Module/Preise. Zwölf Bildmockups und eine interaktive HTML-Vorschau
 zeigen diese Bereiche. Es gibt keinen neuen produktiven Anwendungscode, keine
 installierten Abhängigkeiten, Datenbank, Live-Integration oder bestandene Anwendungstests.
 Alte Laravel-/Android-Archive wurden lokal statisch betrachtet, sind aber nicht auf GitHub.
@@ -69,11 +69,11 @@ Keine Kundenfunktion durch bloße Landing-Sichtbarkeit aktivieren.
 
 ### A3 – Paket-/Abrechnungsmodell bestätigen
 
-[Fachspezifikation](../planung/GRUNDPAKET-UND-ZUSATZMODULE.md) und Prompt 11 enthalten
-Vorschläge, keine fest beschlossene Preispolitik: Grundpaket mit einer Station,
+[Fachspezifikation](../planung/GRUNDPAKET-UND-ZUSATZMODULE.md) und Prompt 11 beschreiben
+das inzwischen bestätigte Hybridmodell: Grundpaket mit einer Station,
 weitere Stationsrechte, Zusatzpakete je ausgewählter Station und zentrale Rechnung.
-Vor Checkout Paketumfang, Intervall, Zeitanteile, Fristen, Steuer/Rundung, Trialumfang
-und bezahlten Übergang bestätigen. Stationsstatus ist kein Abrechnungszustand.
+Monatlicher Start und zeitanteilige Erweiterung sind bestätigt; vor Checkout
+Detailfristen, Steuer/Rundung, Trialumfang und bezahlten Übergang bestätigen. Stationsstatus ist kein Abrechnungszustand.
 Keine automatische Buchung durch Einladung/Schichtanlage oder Kündigung durch Archivierung.
 
 ### B – Partner und Registrierung
@@ -151,3 +151,11 @@ Korrekturen, Bestätigung und Abgleich mit Plan/Abwesenheit. Kein automatischer
 Ist-/Lohnwert aus dem veröffentlichten Plan. Die vorliegende Abwesenheitsplanung
 unterscheidet Wunsch/Antrag/Freigabe und Krankmeldung; konkrete Profile noch bestätigen.
 Weitere Fachbereiche priorisieren, statt jetzt unbekannte Prozesse zu programmieren.
+
+## Ergänzung Mein Abo und Einrichtung
+
+MEIN-ABO.md/Prompt 12 vor Vertragsoberflächen lesen; Auswahl ist keine Buchung,
+Prüfangebot muss versioniert und vollständig sein. Rechnungs-/Zahlungsrechte getrennt.
+Prompt 00 enthält den ersten späteren lokalen Einrichtungsauftrag. Aktuell nur gespeichert,
+nicht ausgeführt. Zielstack neuestes stabiles kompatibles Laravel/Filament und MySQL;
+application/ als vorgesehener Unterordner, keine Überschreibung der Planungsablage.

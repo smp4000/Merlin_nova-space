@@ -23,6 +23,8 @@ Ausführliche Anleitung: [Rechnerwechsel](docs/leitfaeden/RECHNERWECHSEL.md).
 |---|---|
 | Super-Admin: Landing & Preise | [Fachspezifikation](docs/planung/SUPER-ADMIN-LANDING-UND-PREISE.md) · [Prompt 10](docs/prompts/10-super-admin-landing-und-preise.md) |
 | Grundpaket & Zusatzmodule | [Abrechnungsmodell und Beispiele](docs/planung/GRUNDPAKET-UND-ZUSATZMODULE.md) · [Prompt 11](docs/prompts/11-grundpaket-und-zusatzmodule.md) |
+| Mein Abo | [Detailplanung](docs/planung/MEIN-ABO.md) · [Prompt 12](docs/prompts/12-mein-abo.md) |
+| Erster Einrichtungsprompt | [Laravel, Filament und MySQL](docs/prompts/00-entwicklungsumgebung.md) – jetzt nicht ausgeführt |
 | Aktueller Stand | [STATUS](docs/planung/STATUS.md) |
 | Interaktives Dashboard | [Vorschauquelle](docs/mockups/11-dashboard-interaktiv.html) · [Bedienung](docs/leitfaeden/DASHBOARD-INTERAKTIV.md) |
 | Entscheidungen/offene Punkte | [ENTSCHEIDUNGEN](docs/planung/ENTSCHEIDUNGEN.md) |
@@ -62,7 +64,7 @@ Nur Beispieldaten und lokale Interaktionen, keine neue produktive Anwendung.
 
 ![Wochenentwurf, Veröffentlichung und eigene Mitarbeiteransicht](docs/mockups/09-schichtplanung.png)
 
-Umsetzung später modulweise nach ausdrücklichem Auftrag; elf Bildmockups sind vorhanden,
+Umsetzung später modulweise nach ausdrücklichem Auftrag; zwölf Bildmockups sind vorhanden,
 aber noch kein Anwendungscode und nicht sämtliche späteren Fachmodule fertig spezifiziert.
 
 ## Mitarbeiter & Mitarbeitereinladung
@@ -93,3 +95,9 @@ DATEV-orientierte Planung; Zielprogramm und konkrete Schnittstelle sind noch off
 
 Inhalte, Medien, Module und Preise zentral verwalten. Entwurf, Veröffentlichung und
 bestehende Verträge bleiben getrennt. Preise und Geschäftsmodell noch festzulegen.
+
+## Mein Abo
+
+![Stations-/Paketauswahl und Änderungsprüfung](docs/mockups/13-mein-abo.png)
+
+Paketmodell bestätigt, Preise offen. Keine produktive Buchung oder Installation.

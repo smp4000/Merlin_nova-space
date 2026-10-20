@@ -52,12 +52,15 @@ Stand: 20.10.2026. „Bestätigt“ bedeutet eine ausdrückliche Benutzeräußer
 | E45 | Bestätigt | Interaktives Dashboard als lokale Gestaltungsvorschau erstellen; kein weitergehender Backend-/Produktivauftrag. |
 | E46 | Bestätigt | Super-Admin soll sämtliche Landing-Inhalte einschließlich Modulpreisen zentral steuern können. |
 | E47 | Vorschlag | Entwurf/Veröffentlichung sowie Inhalts-, Preis- und Angebotsversionen trennen; neue öffentliche Preise ändern bestehende Verträge nicht automatisch. |
-| E48 | Offen | Paket-/Add-on-Struktur, Preisbezugsgröße, Beträge, Intervalle, Steuerdarstellung, Bestandskundenänderung und konkrete Publisherrechte. |
+| E48 | Offen | Historisch offene Paket-/Bezugsgrößenfrage durch E50–E52 konkretisiert; Beträge, Steuerdarstellung, Bestandskundenänderung und Publisherrechte bleiben offen. |
 | E49 | Bestätigt | Grundpaket/Zusatzmodule und Abrechnung Firma/Station ausplanen, Beträge offen, keine Programmierung, alles auf GitHub sichern. |
-| E50 | Vorschlag | Ein Grundpaket je Vertragspartner mit einer Station, weitere Stationsrechte und Zusatzpakete je ausgewählter Station; zentrale Rechnung. |
-| E51 | Vorschlag | Team/Zugänge und Stationsbasis inklusive; Personal, Schichtplanung und Abwesenheiten als gemeinsames Zusatzpaket, keine Kopfgebühren zum Start. |
-| E52 | Vorschlag | Monatlicher gemeinsamer Zyklus, bestätigte Erweiterung zeitanteilig, Reduzierung zum zulässigen Periodenende; Stationsstatus beendet keine Buchung automatisch. |
-| E53 | Offen | Hybrid-/Paketumfang, Trialumfang, Änderungs-/Fristenregeln, Beträge, Steuer-/Rundungs-/Zeitzonenmodell und Zahlungs-/Rechnungsverfahren bestätigen. |
+| E50 | Bestätigt | Ein Grundpaket je Vertragspartner mit einer Station, weitere Stationsrechte und Zusatzpakete je ausgewählter Station; zentrale Rechnung. |
+| E51 | Bestätigt | Team/Zugänge und Stationsbasis inklusive; Personal, Schichtplanung und Abwesenheiten als gemeinsames Zusatzpaket, keine Kopfgebühren zum Start. |
+| E52 | Bestätigt | Monatlicher gemeinsamer Zyklus, bestätigte Erweiterung zeitanteilig, Reduzierung zum zulässigen Periodenende; Stationsstatus beendet keine Buchung automatisch. |
+| E53 | Offen | Hybrid-/Paketumfang und monatliche Änderungsrichtung durch E50–E52 bestätigt; Trialumfang, Detailfristen, Beträge, Steuer/Rundung/Zeitzone und Zahlungs-/Rechnungsverfahren weiter offen. |
+| E54 | Bestätigt | Mein Abo mit Stationsauswahl, Zusatzmodulen, Buchungsänderungen und Mockup detailliert planen; keine Programmierung, Preise offen, auf GitHub sichern. |
+| E55 | Vorschlag | Auswahl/Prüfangebot/Bestätigung, aktuelle und vorgemerkte Positionen trennen; Konflikte, Wiederholungen und Rücknahme explizit behandeln. |
+| E56 | Bestätigt | Ersten Einrichtungsprompt für neuestes stabiles Laravel, Filament und MySQL bereitstellen; dadurch jetzt keine Installation beauftragt. |
 
 ## Modellierungsgrundsätze der aktuellen Spezifikation
 

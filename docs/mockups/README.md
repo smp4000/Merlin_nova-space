@@ -14,8 +14,10 @@ Status/Nummern beziehen sich auf die Planungsreihenfolge, nicht auf Implementier
 | [07](07-stationsverwaltung.png) | Konzept | Stationsübersicht und Profil mit Öffnungszeiten/Zuständigkeiten. |
 | [08](08-mitarbeiter-und-einladung.png) | Konzept | Mitarbeiterliste, Einladung zum Personalfragebogen und mobiler eigener Erfassungsbereich. |
 | [09](09-schichtplanung.png) | Konzept | Wochenentwurf, Veröffentlichungsvorschau und eigene Mitarbeiteransicht. |
-| [10](10-abwesenheiten.png) | Konzept, neueste Ansicht | Abwesenheitsverwaltung, eigener Urlaubsantrag und getrennte berechtigte Prüfung. |
+| [10](10-abwesenheiten.png) | Konzept | Abwesenheitsverwaltung, eigener Urlaubsantrag und getrennte berechtigte Prüfung. |
 | [11](11-dashboard-interaktiv.html) | Interaktive Vorschau | Navigation, Stations-/Rollenwechsel, Beispielzuordnung und Antragsstatus. Keine produktive Anwendung. |
+| [12](12-super-admin-landing-und-preise.png) | Konzept | Super-Admin-CMS und Preiskatalog, keine echten Preise. |
+| [13](13-mein-abo.png) | Konzept | Stations-/Paketauswahl und Änderungsprüfung ohne Bezahlabschluss. |
 
 Interaktive Quelle nach Klonen im Browser öffnen oder in Codex darstellen lassen;
 GitHub selbst zeigt nur den Quelltext. [Bedienung und Grenzen](../leitfaeden/DASHBOARD-INTERAKTIV.md).
@@ -131,3 +133,18 @@ Gestaltungsvorschlag zu Prompt 10; kein funktionierendes CMS. Preise bleiben off
 Das kleine Stationsbild ist ein generiertes Platzhaltermotiv, kein Originalfoto.
 Sichtbare Status/Schalter und generierte Bildtexte entscheiden keine Geschäftsregeln.
 Maßgeblich ist die [Fachspezifikation](../planung/SUPER-ADMIN-LANDING-UND-PREISE.md).
+
+### Mein Abo
+
+![Stationsauswahl und Änderungsprüfung](13-mein-abo.png)
+
+Gestaltungsentwurf mit Beispielmengen, keine tatsächliche Buchung oder Funktionsfreigabe.
+Preisfelder bleiben offen; Abschluss gesperrt. Ein Auswahlhäkchen ist keine Bestellung.
+Maßgeblich sind [Fachspezifikation](../planung/MEIN-ABO.md) und Prompt 12.
+
+Bekannte Abweichungen in Bild 13: „Alle Kernfunktionen enthalten“ meint ausschließlich
+bestätigte Basisleistungen, nicht Personal-/Schicht-/Abwesenheitsfunktionen. „3 gebucht“
+ist Gesamtmenge, nicht drei zusätzliche Inklusivstationen. Links ist die Auswahl noch
+leer, rechts wird der folgende Prüfschritt nach Auswahl von Station Süd gezeigt.
+Buttonwortlaut ist vor Livebetrieb gesondert zu prüfen. Fiktiver Betreibername/Logo
+sind Illustration, keine bestätigten Stammdaten oder neue Logoentscheidung.

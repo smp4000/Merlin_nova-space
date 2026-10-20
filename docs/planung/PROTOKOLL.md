@@ -217,6 +217,21 @@ Grenzen, Datenobjekte und spätere Abnahme dokumentiert. Kein echter Vertrag/Zah
 Nächster Schritt: Vorschläge zu Paketumfang/Bezugsgröße/Änderungsregeln bestätigen,
 danach Trialumfang und Vertrags-/Abrechnungsgrundlagen. Git-Status separat prüfen.
 
+## 20.10.2026 – Mein Abo und erster Einrichtungsprompt
+
+Benutzer bestätigt das zuletzt vorgestellte Paketmodell einschließlich monatlicher
+Änderungsrichtung. E50–E52 und Übergabe entsprechend aktualisiert; Beträge, Detailfristen,
+Trialübergang und technische Abrechnungs-/Anbieterfragen bleiben offen.
+Mein-Abo-Fachspezifikation, Prompt 12 und Mockup 13 erstellt: Auswahl/Prüfung/Bestätigung,
+Stations-/Paketmengen, Vormerkung/Rücknahme, Rechnungsrechte und Konflikt-/Fehlerfälle.
+Auswahl verändert keine Buchung, fehlende Preise blockieren Bezahlabschluss.
+
+Währenddessen zusätzlicher Wunsch: erster Prompt für Umgebung mit neuestem Laravel,
+Filament und MySQL. Prompt 00 bereitgestellt, offizielle Quellen für Laravel 13.x,
+Filament 5.x und MySQL gelesen; später tatsächliche stabile Patchstände neu verifizieren.
+Keine Installation ausgeführt, keine echte DB angelegt, keine Fachmodule programmiert.
+Dokumentation/Übergabe und Bildbriefing aktualisiert; Git-Sicherung separat verifizieren.
+
 ## Weiterführungsregel
 
 Bei jedem Folgeauftrag Datum, Ergebnis, bestätigte Entscheidungen, offene Punkte

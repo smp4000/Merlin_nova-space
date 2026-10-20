@@ -3,7 +3,7 @@
 ## Geplante Reihenfolge
 
 1. Super-Admin für Landing/Modulkatalog/Preisversionen (Prompt 10), danach
-   Grundpaket-/Zusatzmodulvorschlag (Prompt 11) bestätigen, dann Landing-Inhalte und
+   bestätigtes Grundpaket-/Zusatzmodulmodell (Prompt 11) und Mein Abo (Prompt 12) beachten, dann Landing-Inhalte und
    Preis-/Aboentscheidung.
 2. Partnerregistrierung mit Rechnung/SEPA und tatsächlichen Anbieteranforderungen.
 3. Partner-Dashboard für Erststart und laufenden Betrieb.
@@ -31,3 +31,6 @@ Vorher Bestand/Stack und Projektstruktur ausdrücklich festlegen. Alte Fachlogik
 wegen eines neuen Designs ungeprüft wegwerfen, aber vorhandene Technik auch nicht als
 bereits beschlossene Basis darstellen. Nur Test-/Entwicklungsumgebung verwenden.
 Echte Mandate, Kontoerstellung, Einladungen und Zahlungen sind eigene konkrete Aktionen.
+
+Für späteren Einstieg zuerst [Einrichtungsprompt 00](../prompts/00-entwicklungsumgebung.md),
+danach nur einzeln beauftragte Fachmodule. Jetzt keine Installation ausgeführt.

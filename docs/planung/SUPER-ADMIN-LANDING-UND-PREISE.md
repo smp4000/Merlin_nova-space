@@ -217,5 +217,5 @@ Arbeitsauftrag: [Modul-Prompt 10](../prompts/10-super-admin-landing-und-preise.m
 
 [Grundpaket und Zusatzmodule](GRUNDPAKET-UND-ZUSATZMODULE.md) konkretisiert die bisher
 offenen Paket-/Bezugsgrößenfragen als Vorschlag: Grundpaket inklusive einer Station,
-weitere Stationsrechte und Zusatzpakete je ausgewählter Station. Noch keine bestätigte
-Preispolitik; numerische Preise, Vertrags-/Steuerfragen bleiben offen.
+weitere Stationsrechte und Zusatzpakete je ausgewählter Station. Dieses Modell wurde inzwischen bestätigt;
+numerische Preise und Detailfragen zu Verträgen/Steuern bleiben offen.

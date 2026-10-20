@@ -6,7 +6,9 @@ Nur planen. Keine Anwendung programmieren, keine Verträge aktivieren, keine ech
 Rechnungen/Mandate/Einzüge erzeugen. Beträge bleiben offen. Vor späterer Umsetzung
 AGENTS.md, STATUS, ENTSCHEIDUNGEN, Prompt 10 und die
 [Fachspezifikation](../planung/GRUNDPAKET-UND-ZUSATZMODULE.md) lesen.
-Die dortigen Empfehlungen sind ohne weitere Nutzerbestätigung keine verbindliche Preispolitik.
+Das zuletzt zusammengefasste Hybrid-/Paketmodell wurde inzwischen bestätigt; siehe
+aktuellen Bestätigungsvermerk der Fachspezifikation. Beträge und offene Detailregeln
+bleiben unentschieden. Für Bedienabläufe zusätzlich Prompt 12 lesen.
 
 ## Empfohlenes Modell ausarbeiten
 

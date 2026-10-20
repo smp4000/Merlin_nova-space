@@ -1,8 +1,12 @@
 # Grundpaket, Zusatzmodule und Abrechnung
 
 Stand: 20.10.2026. Nur Planung; alle Beträge offen.
-Bestätigt ist der Auftrag, das Modell auszuarbeiten. Die folgenden Paketgrenzen,
-Bezugsgrößen und Änderungsregeln sind Empfehlungen, noch keine Nutzerfreigabe.
+Bestätigung am 20.10.2026: Der Benutzer übernimmt das zuletzt zusammengefasste Modell
+mit einer enthaltenen Station, weiteren Stationsrechten, Zusatzpaketen je ausgewählter
+Station, zentraler Rechnung, Basis/Team inklusive und ohne Kopfgebühren. Monatlicher
+Start, Erweiterungen zeitanteilig und Reduzierungen zum vereinbarten Periodenende.
+Die nachstehenden früheren Empfehlungsformulierungen dokumentieren die Herleitung.
+Detailregeln zu Verträgen, Steuer, Anbieter, Trial und Beträgen bleiben offen.
 
 ## 1. Empfehlung: zentraler Vertrag, stationsbezogene Erweiterung
 
@@ -60,7 +64,7 @@ Welche Entwürfe/Archive beim technischen Limit zählen, bleibt eine getrennte E
 Personal, Schichten und Abwesenheiten zum Start als ein verständliches Paket anbieten:
 Ein Schichtplan ohne Mitarbeitergrundlage und Abwesenheitswirkung wäre fachlich schwer
 zu erklären. Die internen Module bleiben getrennt entwickelbar, sind aber nicht zwingend
-einzeln verkaufbar. Das ist eine Empfehlung, keine Änderung bestätigter Fachmodelle.
+einzeln verkaufbar. Das Bündel ist nun bestätigt; die internen Fachmodelle bleiben getrennt.
 
 Kunde wählt bewusst die teilnehmenden Stationen. „Für alle Stationen“ ist eine
 Sammelauswahl mit aufgelisteten Stationen und Gesamtmenge; neue Stationen werden nicht
@@ -228,14 +232,16 @@ Keine Migration, kein Checkout und keine Integration aktuell beauftragt.
 - Offener Preis und fehlendes erforderliches Mandat blockieren den jeweiligen Abschluss.
 - Zwei unterschiedliche Gesellschaften bleiben auch bei gleicher Kontaktperson getrennt.
 
-## 12. Noch zu bestätigen
+## 12. Bestätigung und verbleibende Entscheidungen
 
-1. Hybridmodell und erste enthaltene Station.
-2. Basisumfang sowie gemeinsames Personal-/Einsatzplanungspaket.
-3. Auswahl je Station statt verpflichtender Modulbuchung für alle Stationen.
-4. Monatlicher Start, Erweiterung zeitanteilig, Reduzierung zum zulässigen Periodenende.
+1. Bestätigt: Hybridmodell und erste enthaltene Station.
+2. Bestätigt: Basisumfang sowie gemeinsames Personal-/Einsatzplanungspaket.
+3. Bestätigt: Auswahl je Station statt verpflichtender Modulbuchung für alle Stationen.
+4. Bestätigt: monatlicher Start, Erweiterung zeitanteilig, Reduzierung zum vereinbarten Periodenende; Detailfristen offen.
 5. Trialumfang, Aktivierung nach Trial, Vertragsfristen und Umgang mit Zahlungsproblemen.
 6. Beträge, Steuer-/Währungsmodell, Abrechnungszeitzone, Anbieter und Rechnungsverfahren.
 
 Siehe [Modul-Prompt 11](../prompts/11-grundpaket-und-zusatzmodule.md) und
 [Super-Admin-Planung](SUPER-ADMIN-LANDING-UND-PREISE.md).
+
+Bedienablauf: [Mein Abo](MEIN-ABO.md).

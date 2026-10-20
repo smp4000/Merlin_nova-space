@@ -258,3 +258,12 @@ Rechts Module-/Preiskatalog mit geplanten Modulen, Preisen ausdrücklich „offe
 Prüfhinweis zum gesperrten bezahlten Abschluss. Sidebar trennt Website, Module, Preise
 und Versionen. Keine Zahlenpreise, keine echten Kundendaten, keine Anwendung implementiert.
 Das kleine Stationsmotiv ist generisch generiert, nicht das veröffentlichte Originalfoto.
+
+## 13 – Mein Abo
+
+Konsolidiertes Bildbriefing: Zwei Desktopansichten im Eisblau-/Weiß-/Petrol-Stil.
+Links Partnernavigation, Aboübersicht mit 3 gebuchten Stationen und Personalpaket an 2,
+Stationsmatrix mit getrennten aktuellen Buchungen/Entwurfsauswahl; 1 Station inklusive.
+Rechts Prüfung eines Personalpaket-Zugangs für Station Süd, Menge 2 auf 3, Auswahl
+sofort zeitanteilig oder nächster Zyklus, Beträge offen und Abschluss gesperrt.
+Nur Beispieldaten, kein echter Vertrag. Keine Eurobeträge oder Bankdaten.

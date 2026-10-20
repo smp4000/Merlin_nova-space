@@ -67,8 +67,16 @@ Verträge umschreiben. Diese Planung erteilt keinen produktiven Programmierauftr
 
 ## Grundpaket und Zusatzmodule
 
-Prompt 11 und GRUNDPAKET-UND-ZUSATZMODULE.md enthalten einen noch unbestätigten
-Hybridvorschlag: Grundpaket mit einer Station, weitere Stationsrechte und Zusatzpakete
-je ausgewählter Station, zentrale Rechnung. Paketumfang, monatlicher Zyklus und
-Zeitanteils-/Reduzierungsregeln sind Empfehlungen. Nicht als beschlossene Preise oder
-Programmierfreigabe behandeln. Stationsstatus ist nicht Vertrags-/Abrechnungszustand.
+Das Hybridmodell aus Prompt 11 ist seit 20.10.2026 vom Benutzer bestätigt:
+Grundpaket mit einer Station, weitere Stationsrechte, Zusatzpakete je ausgewählter
+Station, zentrale Rechnung; Basis/Team inklusive und Personalpaket ohne Kopfgebühren.
+Monatlicher Start, Erweiterung zeitanteilig, Reduzierung zum vereinbarten Periodenende.
+Konkrete Preise, Fristen/Steuer/Anbieter und bezahlter Trialübergang bleiben offen.
+Stationsstatus ist nicht Vertrags-/Abrechnungszustand. Für Mein Abo MEIN-ABO.md und
+Prompt 12 lesen; ergänzte Bedien-/Konfliktregeln sind Planungsvorschläge.
+
+## Einrichtungsprompt
+
+Benutzer wünscht einen ersten Prompt für neuestes stabiles Laravel/Filament und MySQL.
+Prompt 00 ist ein späterer begrenzter Einrichtungsauftrag, jetzt nicht ausführen.
+Keine Installation durch bloßes Lesen/Ablegen. MySQL nicht mit MariaDB gleichsetzen.
