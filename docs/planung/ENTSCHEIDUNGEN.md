@@ -37,6 +37,12 @@ Stand: 20.10.2026. „Bestätigt“ bedeutet eine ausdrückliche Benutzeräußer
 | E30 | Vorschlag | Selbsterfassung über begrenzten eigenen Personalfragebogen mit Prüfung vor Übernahme; Login separat. |
 | E31 | Vorschlag | Ein Beschäftigungsverhältnis je Arbeitgeber, mehrere Einsatzstationen ohne doppelte Personalakte. Mehrarbeitgebermodell offen. |
 | E32 | Offen | Beschäftigungsfallabhängige Pflichtfelder, Lohnbüro-Zuordnung, Personalnummern, Export-/API-Verfahren und sensible Freigaberechte. |
+| E33 | Bestätigt | Schichtplanung als nächstes Modul weiterplanen, Ergebnisse für spätere Programmierung am anderen Rechner sichern. |
+| E34 | Vorschlag | Stations-/Wochenentwurf und unveränderliche veröffentlichte Planversion trennen; Plan ist keine Ist-Zeit. |
+| E35 | Vorschlag | Nur aktuelle Pflichtprüfung ohne Blocker ermöglicht Veröffentlichung; zulässige offene Plätze/Warnungen ausdrücklich behandeln. |
+| E36 | Offen | Veröffentlichung bei unbesetzten Plätzen, genaue Regel-/Tarif-/Ausnahmeprofile und delegierte Veröffentlichungsrechte. |
+| E37 | Vorschlag | Tauschbörse, iCal und Ist-Anbindung als spätere Ausbaustufen, keine automatische Umbesetzung durch Mitarbeiteranfrage. |
+| E38 | Bestätigt | Übergabe soll spätere Programmierung ermöglichen; daraus folgt aktuell noch kein Programmierauftrag. |
 
 ## Modellierungsgrundsätze der aktuellen Spezifikation
 

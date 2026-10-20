@@ -12,7 +12,8 @@ Status/Nummern beziehen sich auf die Planungsreihenfolge, nicht auf Implementier
 | [05](05-partner-dashboard.png) | Konzept | Erster Einstieg als Inhaber, eine Station, leere Fachbereiche. |
 | [06](06-team-und-zugaenge.png) | Konzept, neu | Zugangsübersicht und Einladung mit Stations-/Rechteumfang. |
 | [07](07-stationsverwaltung.png) | Konzept | Stationsübersicht und Profil mit Öffnungszeiten/Zuständigkeiten. |
-| [08](08-mitarbeiter-und-einladung.png) | Konzept, neueste Ansicht | Mitarbeiterliste, Einladung zum Personalfragebogen und mobiler eigener Erfassungsbereich. |
+| [08](08-mitarbeiter-und-einladung.png) | Konzept | Mitarbeiterliste, Einladung zum Personalfragebogen und mobiler eigener Erfassungsbereich. |
+| [09](09-schichtplanung.png) | Konzept, neueste Ansicht | Wochenentwurf, Veröffentlichungsvorschau und eigene Mitarbeiteransicht. |
 
 ## Bekannte Bildabweichungen – nicht als Anforderung übernehmen
 
@@ -51,6 +52,18 @@ Status/Nummern beziehen sich auf die Planungsreihenfolge, nicht auf Implementier
   „Geprüft“ heißt keine von DATEV bestätigte Übernahme. Separate Login-Vormerkung
   erzeugt keinen Zugang. 7 Tage Einladungsdauer bleiben Vorschlag.
   Der mobile Menüknopf darf nur eigene Erfassungsfunktionen, keine Administration öffnen.
+- 09 enthält generierte Portrait-Platzhalter, keine echten Beschäftigtenfotos;
+  eine Fotopflicht oder Personalbildfunktion ist nicht beschlossen.
+  Die veröffentlichte Mitarbeiteransicht ist ein eigenes Beispiel und passt nicht
+  positionsgenau zur oberen Entwurfsbelegung; keine Datenübernahme daraus ableiten.
+  Der Satz unter der Bestätigung des offenen Platzes nennt den Plan versehentlich
+  „vollständig“: fachlich bleibt der Platz offen und wird so berichtet. Bestätigung
+  erlaubt nur nach beschlossener Betriebsregel Veröffentlichung, keine Behauptung voller Besetzung.
+  Grün in der Prüfansicht bedeutet nur das dargestellte freigegebene Prüfergebnis,
+  keine umfassende Rechtsgarantie; reale Pflichtregeln/Daten müssen zuvor stimmen.
+  Die eigene Ansicht übernimmt im Bild Organisations-Avatar/Kopf vereinfacht;
+  tatsächlicher Zugang und Navigation müssen ausschließlich den eigenen Umfang zeigen.
+  Pausensummen im Bild ersetzen nicht das fachlich nötige Intervall-/Besetzungsmodell.
 
 ## Vorschauen
 
@@ -81,3 +94,7 @@ Status/Nummern beziehen sich auf die Planungsreihenfolge, nicht auf Implementier
 ### Mitarbeiter & Mitarbeitereinladung
 
 ![Mitarbeiterübersicht, Personalfragebogeneinladung und Selbsterfassung](08-mitarbeiter-und-einladung.png)
+
+### Schichtplanung
+
+![Wochenentwurf, Prüfen und eigene Mitarbeiteransicht](09-schichtplanung.png)

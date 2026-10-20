@@ -11,7 +11,10 @@ Sie sind keine wörtlichen vollständigen Chat-Transkripte. Noch keine Implement
 | 04 | [Team & Zugänge](04-team-und-zugaenge.md) | Neue detaillierte Planung, Rollen und Einladungen. |
 | 05 | [Stationsverwaltung](05-stationsverwaltung.md) | Stammdaten, Öffnungszeiten, Zuständigkeiten, Pause/Archiv und Systemgrenzen. |
 | 06 | [Mitarbeiter & Mitarbeitereinladung](06-mitarbeiter-und-einladung.md) | DATEV-orientierte Felder, Selbsterfassung, Prüfung und Personal-/Lohnrechte. |
+| 07 | [Schichtplanung](07-schichtplanung.md) | Vorlagen, Zeit-/Regelmodell, Veröffentlichung und eigene Mitarbeiteransicht. |
 | Bilder | [Bildbriefings](BILD-PROMPTS.md) | Rekonstruierte Briefings aller generierten Mockups. |
 
 Vor späterer Programmierung jeweiligen Prompt ausdrücklich auf Umsetzung umstellen,
 offene Punkte prüfen und mit den tatsächlichen Projektdateien abgleichen.
+Konkreter späterer Startprompt und Abhängigkeitsreihenfolge:
+[Umsetzungsübergabe](../leitfaeden/UMSETZUNGSUEBERGABE.md).

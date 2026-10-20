@@ -4,9 +4,9 @@ Stand: 20.10.2026, Europe/Berlin. Phase: **Planung und Mockups**.
 
 ## Letzter Benutzerauftrag
 
-Mitarbeiterverwaltung mit Mitarbeitereinladung planen, Grundlage DATEV.
-Fortführung der bisherigen Arbeitsweise: Fachspezifikation, Modul-Prompt,
-Mockup im gleichen Stil und GitHub-Ablage mit Protokoll/Übergabe aktualisieren.
+Schichtplanung wie vorgeschlagen weiterplanen und so dokumentieren, dass später
+auf dem anderen Rechner modulweise programmiert werden kann. Fachspezifikation,
+Modul-Prompt, Mockup, GitHub-Ablage und konkrete Umsetzungsübergabe aktualisieren.
 **Noch nichts programmieren.**
 
 ## Vorhandene Ergebnisse
@@ -22,21 +22,26 @@ Mockup im gleichen Stil und GitHub-Ablage mit Protokoll/Übergabe aktualisieren.
 - Mitarbeiter-/Einladungsplanung mit Feldgruppen, Personal-/Lohnrechten,
   Selbsterfassung, Prüfung und begrenzter DATEV-Vorbereitung; Prompt 06.
 - Offizielle DATEV-Recherche und Mapping-Gerüst ohne erfundene Schnittstellenfelder.
-- Acht Mockups insgesamt, zuletzt Mitarbeiterübersicht, Einladung und Selbsterfassung.
+- Schichtplanung mit Vorlagen/Entwurf, Prüfungen, versionierter Veröffentlichung,
+  Benachrichtigungen, eigener Mitarbeiteransicht und abgegrenztem Tauschausbau; Prompt 07.
+- Regelrecherche mit offiziellen Quellen und Gültigkeits-/Prüfgrenzen.
+- Neun Mockups insgesamt, zuletzt Wochenplan, Prüfansicht und eigener Schichtplan.
+- Umsetzungsübergabe für neuen Rechner mit Modulreihenfolge, offenen Voraussetzungen
+  und späterem Startprompt; keine automatische Programmierfreigabe.
 - Datenschutz-/SEPA-Leitfaden mit Quellen und offenen Punkten.
 - Git- und Codex-Übergabeanleitung.
 
 ## Nächste sinnvolle Arbeit
 
-1. Antwort zur gestellten Frage nach DATEV LODAS oder Lohn und Gehalt aufnehmen;
-   bis dahin kein Zielprogramm als bestätigt behandeln.
-2. Mitarbeiterfelder/-profile mit Lohnstelle, Arbeitgebermodell und gewünschtem
-   Übergabeweg abstimmen; keine beliebige CSV als DATEV-Import ausgeben.
-3. Personal-/Lohnrechte, Bankänderungsschutz und Erfassungszugang besprechen;
-   bei Bedarf Prüf-/Rückfrageansicht zusätzlich mocken.
-4. Offene Stations- und Rollenregeln bestätigen (Limit, Öffnungszeiten, Einladungsfrist).
-5. Als nächstes Fachmodul Schichtplanung detailliert planen, falls Benutzer zustimmt.
-6. Erst auf ausdrücklichen Implementierungsauftrag Code erzeugen.
+1. Als nächste fachliche Planung Abwesenheiten/Urlaub/Wunschfrei/Krankheit und
+   Verfügbarkeit vorschlagen: Schichtplanung braucht genehmigte/festgestellte Intervalle.
+2. Schichtregeln, Veröffentlichung mit offenen Plätzen, Leitungsrechte und
+   notwendige Daten-/Tarif-/Schutzprofile bestätigen, keine Rechtsgarantie ableiten.
+3. DATEV-Zielprogramm und Mitarbeiter-/Arbeitgeber-/Übergabemodell bleiben offen.
+4. Weitere offene Stations-/Rollen-/Aboentscheidungen nach Priorität besprechen.
+5. Für Programmierung am neuen Rechner UMSETZUNGSUEBERGABE lesen und Stack/Basis
+   plus konkreten ersten Implementierungsschritt ausdrücklich beauftragen.
+6. Bis dahin weiterhin keine Anwendung programmieren.
 
 ## Noch nicht entschieden / nicht fertig
 
@@ -54,6 +59,9 @@ Mockup im gleichen Stil und GitHub-Ablage mit Protokoll/Übergabe aktualisieren.
 - DATEV-Zielprogramm, Version/Feldmapping, Datei-/Cloud-Übergabe und technische Freigabe.
 - Rechtlicher Arbeitgeber/Lohnmandant je Akte, Personalnummern und bedingte Pflichtfelder.
 - Personalfragebogenprofile, genaue Personal-/Lohnrechte und Erfassungs-Authentifizierung.
+- Schichtregelprofile/Tarif-/Ausnahmegrundlagen, Planveröffentlichung mit offenen Plätzen,
+  Freigaberechte, Einbeziehung von Fremdzeiten und Abwesenheits-Datenvertrag.
+- Abwesenheiten/Urlaubsanspruch, Ist-Zeit und weitere Fachmodule noch nicht detailliert geplant.
 
 ## Technischer Zustand
 

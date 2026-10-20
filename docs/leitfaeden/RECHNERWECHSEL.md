@@ -21,6 +21,11 @@ AGENTS.md ist der Einstiegspunkt im Repository. Die Projektdateien stehen nach d
 zur Verfügung; ein alter Chat wird nicht automatisch als Verlauf auf einen neuen Chat übertragen.
 Es ist kein automatischer Hintergrundabgleich oder geräteübergreifender Zustand eingerichtet.
 
+Für einen späteren ausdrücklichen Programmierauftrag gibt es zusätzlich die
+[Umsetzungsübergabe mit Startprompt](UMSETZUNGSUEBERGABE.md). Sie beschreibt den
+tatsächlichen Stand, offene Voraussetzungen und die modulweise Entwicklungsreihenfolge.
+Die Vorlage nicht als aktuelle Freigabe interpretieren; gewünschtes Modul und Stack zuerst festlegen.
+
 ## Vor jedem Rechnerwechsel
 
 Aktuelle Ergebnisse, neue Bilder und Entscheidungen in den Dateien speichern.

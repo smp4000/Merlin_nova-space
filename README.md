@@ -29,6 +29,9 @@ Ausführliche Anleitung: [Rechnerwechsel](docs/leitfaeden/RECHNERWECHSEL.md).
 | Stationsverwaltung im Detail | [Spezifikation](docs/planung/STATIONSVERWALTUNG.md) |
 | Mitarbeiter & Mitarbeitereinladung | [Spezifikation](docs/planung/MITARBEITER-UND-EINLADUNG.md) |
 | DATEV-Grundlage und Grenzen | [Rechercheleitfaden](docs/leitfaeden/DATEV-GRUNDLAGE.md) |
+| Schichtplanung im Detail | [Spezifikation](docs/planung/SCHICHTPLANUNG.md) |
+| Regelprüfung und Quellen | [Regelleitfaden](docs/leitfaeden/RECHERCHE-SCHICHTREGELN.md) |
+| Spätere Programmierung am anderen Rechner | [Umsetzungsübergabe und Startprompt](docs/leitfaeden/UMSETZUNGSUEBERGABE.md) |
 | Datenschutz und SEPA | [Planungsleitfaden](docs/leitfaeden/DATENSCHUTZ-UND-SEPA.md) |
 | Modul-Prompts | [Übersicht](docs/prompts/README.md) |
 | Alle Mockups | [Galerie und Hinweise](docs/mockups/README.md) |
@@ -38,7 +41,14 @@ Ausführliche Anleitung: [Rechnerwechsel](docs/leitfaeden/RECHNERWECHSEL.md).
 
 ![Landingpage im gewünschten Eisblau-Petrol-Stil](docs/mockups/02-landing-freigegebener-stil.png)
 
-## Mitarbeiter & Mitarbeitereinladung – aktueller Entwurf
+## Schichtplanung – aktueller Entwurf
+
+![Wochenentwurf, Veröffentlichung und eigene Mitarbeiteransicht](docs/mockups/09-schichtplanung.png)
+
+Umsetzung später modulweise nach ausdrücklichem Auftrag; neun Mockups sind vorhanden,
+aber noch kein Anwendungscode und nicht sämtliche späteren Fachmodule fertig spezifiziert.
+
+## Mitarbeiter & Mitarbeitereinladung
 
 ![Mitarbeiterübersicht, Einladung und Selbsterfassung](docs/mockups/08-mitarbeiter-und-einladung.png)
 

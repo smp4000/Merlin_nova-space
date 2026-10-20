@@ -100,6 +100,37 @@ Nächster Schritt: DATEV-Ziel und Mitarbeiterprofil/Prüfrechte klären, danach 
 Schichtplanung. Vor Veröffentlichung Markdown-Verweise/Fences und Git-Whitespace prüfen;
 Remote-Commit nach Push mit lokalem Commit vergleichen.
 
+## 20.10.2026 – Schichtplanung und spätere Programmierübergabe
+
+Benutzer bestätigte Fortsetzung mit Schichtplanung, damit am anderen Rechner später
+programmiert werden kann. Planungsmodus beibehalten, kein Anwendungscode angelegt.
+Vor Arbeit Remote-Abgleich: lokal und origin/main gleichauf.
+
+Erstellt:
+- SCHICHTPLANUNG.md: Vorlagen, Bedarf/Positionen, Zeit-/Pausenmodell, mehrere Stationen,
+  Regelzustände, versionierte Veröffentlichung, Konfliktrennen, Benachrichtigungen,
+  Änderungen, eigene Mitarbeiteransicht und klar begrenzte spätere Tauschfunktion.
+- Prompt 07 sowie offizieller Quellen-/Regelleitfaden mit Zeit-/Gültigkeitsgrenzen.
+- Mockup 09 mit Wochenentwurf, Veröffentlichungsvorschau und eigener Mitarbeiteransicht.
+- UMSETZUNGSUEBERGABE.md: tatsächlicher Repositoryinhalt, benötigte Entscheidungen,
+  technische Modulreihenfolge, Definition fertig und späterer Startprompt.
+- STATUS, Entscheidungen, AGENTS, README und Galerie/Bildbriefing aktualisiert.
+
+Recherchiert wurden offizielle ArbZG-/JArbSchG- und Minijob-Zentrale-Informationen.
+Keine allgemeine Tankstellen-Ausnahme, keine gesetzliche Override-Freigabe allein per
+Begründung und keine Übernahme geplanter Stunden als geleistete/DATEV-Lohnstunden zugesagt.
+Einige Einzelabrufe der Gesetzesseite waren technisch nicht erreichbar; Gesamtausgaben
+und erreichbare Einzelregelquellen dienen der dokumentierten Orientierung.
+
+Mockup enthält generative Vereinfachungen (siehe Galerie), insbesondere keine echte
+Rechtsprüfung. Mitarbeiteransicht zeigt ein separates illustriertes Beispiel.
+Offene Abo-/DATEV-/Stack- und fachliche Regelentscheidungen bleiben offen.
+Noch nicht alle Fachmodule fertig geplant; sinnvoller nächster Planungsschritt ist
+Abwesenheiten/Urlaub/Wunschfrei/Krankheit als Datenbasis für den Planer.
+
+Vor GitHub-Sicherung Markdown-Verweise/Fences und Whitespace prüfen. Nach Push
+lokalen/Remote-Commit vergleichen. Anwendungstests sind mangels Anwendung kein Prüfresultat.
+
 ## Weiterführungsregel
 
 Bei jedem Folgeauftrag Datum, Ergebnis, bestätigte Entscheidungen, offene Punkte

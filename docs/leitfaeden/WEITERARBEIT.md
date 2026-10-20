@@ -9,8 +9,10 @@
 5. Stationsverwaltung im Detail (Spezifikation/Prompt/Mockup vorhanden; Regeln noch besprechen).
 6. Mitarbeiter & Mitarbeitereinladung DATEV-orientiert (Spezifikation/Prompt/Mockup
    vorhanden; Zielprogramm und Fachprofil mit Lohnstelle noch klären).
-7. Weitere Fachmodule, insbesondere Schichtplanung, jeweils eigener Prompt und Mockup.
-8. Erst nach ausdrücklicher Freigabe eines konkreten Moduls programmieren.
+7. Schichtplanung (Spezifikation/Prompt/Mockup vorhanden; Regeln/Freigaben noch bestätigen).
+8. Abwesenheiten und weitere Fachmodule jeweils mit eigenem Prompt und Mockup.
+9. Erst nach ausdrücklicher Freigabe eines konkreten Moduls programmieren;
+   siehe [Umsetzungsübergabe](UMSETZUNGSUEBERGABE.md).
 
 ## Pro Modul
 

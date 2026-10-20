@@ -192,3 +192,31 @@ Footer „Gestaltungsentwurf · Beispieldaten · Keine DATEV-Anbindung umgesetzt
 
 Full field/profile/review rules live in the specification. The picture's shortened
 steps do not remove tax/social insurance or necessary evidence from the plan.
+
+## 09 – Schichtplanung und Veröffentlichung
+
+```text
+Create a premium high-fidelity German Merlin UX board with two desktop sections
+stacked vertically. Flat screenshots, approved ice-blue/white/navy/petrol, crisp
+outline icons, cool thin borders, subtle shadows and 12px rounded cards.
+Top full screen: organization sidebar, Schichtplanung selected, station Musterstadt.
+Title „Dein Team. Klar geplant.“, KW44 26 October–1 November2026, Entwurf badge.
+Actions fill templates / add shift / check plan. Counters 14 shifts, 1 open position,
+1 blocking conflict. Week/month toolbar, date controls and area filter.
+Seven-day grid with two shifts per day: early06–14 and late14–22. Synthetic staff
+Kim Muster, Sam Beispiel, Robin Demo, Alex Beispiel, Jamie Muster, Taylor Demo.
+Tuesday early Sam shows overlap; Sunday late dashed open slot. No universal green
+legal-compliance badge. Right conflict panel and one open-slot note; planning is
+not time recording. Bottom employee assignment chips with drag OR select helper.
+Lower section two panels: publication check and own employee plan.
+Left explicitly separate example after conflict fixed, current checks complete,
+no blocker, one open Sunday slot; explicit unchecked acknowledgment, notification
+scope affected active users, back to draft / publish. Creates fixed plan version.
+Right own published plan for Robin, version1, station/address, Monday late14–22,
+Wednesday early06–14, planned30min break. Only own plan, availability action and
+offer-shift later-stage badge. No real private/payroll data or legal certification.
+Footer design concept, examples, no implementation.
+```
+
+See gallery caveats: generated open-slot helper incorrectly calls it complete;
+own assignments are separate examples and break sums do not replace actual intervals.

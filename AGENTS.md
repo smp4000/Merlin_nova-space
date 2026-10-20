@@ -13,6 +13,8 @@ Eine spätere ausdrückliche Implementierungsanweisung darf diesen Modus ändern
 3. `docs/planung/PROTOKOLL.md` – chronologische Übergabe.
 4. Die zum Auftrag passende Spezifikation unter `docs/planung/` und den Prompt unter `docs/prompts/`.
 5. `docs/mockups/README.md` – Bildstatus und bekannte Abweichungen.
+6. Für spätere Programmieraufträge `docs/leitfaeden/UMSETZUNGSUEBERGABE.md` lesen;
+   der dortige Startprompt ist keine aktuelle automatische Implementierungsfreigabe.
 
 ## Verbindlicher Projektkontext
 
@@ -28,6 +30,9 @@ Eine spätere ausdrückliche Implementierungsanweisung darf diesen Modus ändern
 - Preise, Zahlungsanbieter, Mandatsverfahren und automatische Verlängerung sind NICHT entschieden.
 - DSGVO/Datenschutz von Beginn an berücksichtigen; keine absolute Sicherheit oder ungeprüfte Konformität behaupten.
 - Keine echten Einladungen, Registrierungen, Mandate oder Zahlungen bei Planungsarbeiten.
+- Schichtentwurf, veröffentlichte Version und Ist-Zeit trennen. Regelprüfung stations-/
+  wochenübergreifend mit gültigem Regelprofil; keine pauschale rechtliche Freigabe
+  oder freie Umgehung gesetzlicher Grenzen durch einen Begründungstext.
 - Dieses Repository ist öffentlich. Keine Zugangsdaten, echten Bank-/Personal-/Kundendaten oder ungeprüften Projektarchive hochladen.
 
 ## Fortschritt fortschreiben
