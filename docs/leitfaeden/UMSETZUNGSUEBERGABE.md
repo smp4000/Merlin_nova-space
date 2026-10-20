@@ -1,5 +1,11 @@
 # Übergabe für spätere Programmierung auf einem anderen Rechner
 
+Aktualisierung 20.10.2026: Prompt 00 wurde inzwischen ausdrücklich ausgeführt.
+Die lokale technische Basis ist unter `application/` vorhanden; siehe
+[LOKALE-ENTWICKLUNG](LOKALE-ENTWICKLUNG.md) für aktuelle Versionen, Start und offene Auditprüfung.
+Die folgenden früheren Planungsabschnitte bleiben historische Übergabe; sie geben
+weiterhin keine Fachmodule frei.
+
 Stand: 20.10.2026. **Aktuell weiterhin nur Planung.**
 Dieser Leitfaden erlaubt nicht von sich aus den Start von Code, echten Einladungen,
 Mandaten, Zahlungen, Deployment oder Datenmigration.

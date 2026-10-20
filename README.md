@@ -1,7 +1,11 @@
 # Merlin Nova – Planung und Gestaltung
 
 Gemeinsame Planungsablage für die schrittweise Neugestaltung von Merlin.
-**Stand: 20. Oktober 2026 · Planungsphase · Noch keine neue Anwendung implementiert.**
+**Stand: 20. Oktober 2026 · Lokale technische Basis eingerichtet · Fachmodule in Planung.**
+
+Laravel/Filament/MySQL unter `application/`: [Lokale Entwicklung](docs/leitfaeden/LOKALE-ENTWICKLUNG.md).
+Technisches Adminpanel und getrennte Dev-/Testdatenbanken; keine Fachmodule.
+Composer-Audit wartet auf die Cloud-Netzfreigabe für `packagist.org`.
 
 ## Auf einem anderen Rechner weiterarbeiten
 
@@ -24,7 +28,7 @@ Ausführliche Anleitung: [Rechnerwechsel](docs/leitfaeden/RECHNERWECHSEL.md).
 | Super-Admin: Landing & Preise | [Fachspezifikation](docs/planung/SUPER-ADMIN-LANDING-UND-PREISE.md) · [Prompt 10](docs/prompts/10-super-admin-landing-und-preise.md) |
 | Grundpaket & Zusatzmodule | [Abrechnungsmodell und Beispiele](docs/planung/GRUNDPAKET-UND-ZUSATZMODULE.md) · [Prompt 11](docs/prompts/11-grundpaket-und-zusatzmodule.md) |
 | Mein Abo | [Detailplanung](docs/planung/MEIN-ABO.md) · [Prompt 12](docs/prompts/12-mein-abo.md) |
-| Erster Einrichtungsprompt | [Laravel, Filament und MySQL](docs/prompts/00-entwicklungsumgebung.md) – jetzt nicht ausgeführt |
+| Erster Einrichtungsprompt | [Laravel, Filament und MySQL](docs/prompts/00-entwicklungsumgebung.md) – technische Basis jetzt ausdrücklich ausgeführt |
 | Aktueller Stand | [STATUS](docs/planung/STATUS.md) |
 | Interaktives Dashboard | [Vorschauquelle](docs/mockups/11-dashboard-interaktiv.html) · [Bedienung](docs/leitfaeden/DASHBOARD-INTERAKTIV.md) |
 | Entscheidungen/offene Punkte | [ENTSCHEIDUNGEN](docs/planung/ENTSCHEIDUNGEN.md) |
@@ -65,7 +69,8 @@ Nur Beispieldaten und lokale Interaktionen, keine neue produktive Anwendung.
 ![Wochenentwurf, Veröffentlichung und eigene Mitarbeiteransicht](docs/mockups/09-schichtplanung.png)
 
 Umsetzung später modulweise nach ausdrücklichem Auftrag; zwölf Bildmockups sind vorhanden,
-aber noch kein Anwendungscode und nicht sämtliche späteren Fachmodule fertig spezifiziert.
+ergänzt um die lokale technische Basis; spätere Fachmodule sind noch nicht implementiert
+und nicht sämtlich fertig spezifiziert.
 
 ## Mitarbeiter & Mitarbeitereinladung
 
@@ -85,7 +90,8 @@ DATEV-orientierte Planung; Zielprogramm und konkrete Schnittstelle sind noch off
 
 - Bilder sind Gestaltungsvorschauen mit Beispieldaten, keine funktionsfähigen Oberflächen.
 - Alte Projektarchive werden nicht öffentlich mitveröffentlicht.
-- Es wurde bisher kein neuer Anwendungscode erzeugt. Gespeichert werden Spezifikationen und Prompts.
+- Zusätzlich ist die ausdrücklich freigegebene lokale technische Basis unter `application/` vorhanden.
+  Fachmodule sind weiterhin nicht implementiert.
 - Preise, Anbieter und rechtliche Texte sind offen; keine Mandatsgültigkeit oder DSGVO-Zertifizierung behauptet.
 - GitHub-Repository ist öffentlich; nur zur Veröffentlichung bestimmte Planungsinhalte ablegen.
 

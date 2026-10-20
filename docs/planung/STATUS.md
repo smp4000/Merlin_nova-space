@@ -1,13 +1,21 @@
 # Aktueller Stand
 
-Stand: 20.10.2026, Europe/Berlin. Phase: **Planung und Mockups**.
+Stand: 20.10.2026, Europe/Berlin. Phase: **Lokale technische Basis eingerichtet; Fachmodule weiter in Planung**.
 
 ## Letzter Benutzerauftrag
 
-Paketmodell bestätigt. Mein Abo mit Stations-/Modulauswahl, Änderungsprüfung,
-Vormerkungen, Rechnungen und Mockup 13 detailliert geplant; Prompt 12.
-Zusätzlich Start-Prompt 00 für spätere lokale Laravel-/Filament-/MySQL-Einrichtung
-erstellt. Jetzt nichts installiert/programmiert; Preise und Detailvertragsfragen offen.
+Prompt 00 ausdrücklich ausführen: aktuelle kompatible stabile Laravel-/Filament-Versionen,
+echter MySQL, Anwendung unter `application/`, getrennte Dev-/Testdatenbanken, technisches
+Adminpanel, Prüfungen und Sicherung auf GitHub. Keine Landingpage, Registrierung, Abos
+oder Fachmodule. Diese begrenzte technische Freigabe ersetzt den bisherigen reinen
+Planungsmodus ausschließlich für die Basis.
+
+Ergebnis: Laravel 13.38.0, Filament 5.10.2, PHP 8.4.26 und MySQL Community 9.7.2 LTS.
+Asset-Build und acht Tests mit 30 Assertions erfolgreich; echter Browser-Adminlogin,
+Zugriffsschutz und DB-Isolation geprüft. npm-Audit ohne Befunde. Composer-Audit durch
+Cloud-Netzregel für `packagist.org` blockiert; Domain im Konfigurationsentwurf ergänzt,
+nach Speichern der Netzänderung erneut prüfen. Kein bestandener Composer-Audit behauptet.
+Start und lokale Secretverwaltung: [LOKALE-ENTWICKLUNG](../leitfaeden/LOKALE-ENTWICKLUNG.md).
 
 ## Vorhandene Ergebnisse
 
@@ -51,16 +59,16 @@ erstellt. Jetzt nichts installiert/programmiert; Preise und Detailvertragsfragen
 
 1. Mein-Abo-Ansichten und neue Detailabläufe besprechen; Trialumfang, Fristen,
    Preisregel für spätere Zubuchungen und Datenzugriff nach Paketende festlegen.
-   Danach Beträge und Abrechnungsgrundlagen. Einrichtung nur später per ausdrücklichem
-   Start von Prompt 00, nicht automatisch aus diesem Dokument.
+   Danach Beträge und Abrechnungsgrundlagen. Die technische Basis ist eingerichtet;
+   daraus folgt keine Freigabe dieser Fachmodule.
 2. Als nächstes Fachmodul Ist-Zeiterfassung/Arbeitszeitkonto vorschlagen,
    damit Plan, tatsächlich geleistete Zeit, Pausen und Korrekturen getrennt bleiben.
 3. Urlaubskonto Stufe A/B, Arbeitstage-/Feiertagsgrundlage, Wunschfrei-Wirkung,
    Freigabe/Vertretung und Gesundheitsdatenrechte bestätigen.
 4. Schichtregel-/Tarif-/Schutzprofile, offene Plätze und Veröffentlichungsrechte klären.
 5. DATEV-/Arbeitgebermodell und übrige Stations-/Rollen-/Aboentscheidungen bleiben offen.
-6. Für Programmierung am neuen Rechner UMSETZUNGSUEBERGABE lesen und Stack/Basis
-   plus konkreten ersten Implementierungsschritt ausdrücklich beauftragen.
+6. Am neuen Rechner LOKALE-ENTWICKLUNG und UMSETZUNGSUEBERGABE lesen; weitere
+   Implementierungsschritte ausdrücklich beauftragen.
 7. Bis dahin keine produktive Anwendung implementieren; Vorschaucode separat halten.
 
 ## Noch nicht entschieden / nicht fertig
@@ -88,11 +96,15 @@ erstellt. Jetzt nichts installiert/programmiert; Preise und Detailvertragsfragen
 
 ## Technischer Zustand
 
-Repository enthält Planungsdateien, zwölf Bilder und eine lokal interaktive HTML-Vorschau;
-keine neue produktive Anwendung, Datenbank oder Backend-Authentifizierung.
-Laravel und Kotlin aus Altarchiven wurden nicht installiert/gestartet und nicht getestet.
-Lokale `analysis-source/`-Ordner sind ignoriert und auf dem neuen Rechner nicht vorhanden.
-Es gibt keine Datenbank, keinen Zahlungsanschluss und keinen Versanddienst für den Neuaufbau.
+Planungen, zwölf Bildmockups und HTML-Vorschau unverändert erhalten. Neue technische
+Laravel-/Filament-Basis unter `application/`, keine Fachressourcen oder öffentliche
+Registrierung. Lokales Admin-Konto explizit begrenzt, keine produktive Rechtearchitektur.
+MySQL-Dev-/Testdatenbanken getrennt und nur lokal erreichbar. Keine Zahlungs-, DATEV-
+oder Versanddienste eingerichtet. APP_KEYs, Passwörter, DB-Daten und Abhängigkeiten
+bleiben lokal/ignoriert. Lockdateien und wiederholbare Einrichtungshelfer versioniert.
+Cloud-Start-/Installationsanleitung ist im Konfigurationsentwurf hinterlegt; dessen
+Veröffentlichung und Wiederherstellung in einer neuen Aufgabe sind nicht verifiziert.
+Alte Archive wurden weiterhin nicht installiert oder gestartet.
 
 ## Zu beachten
 

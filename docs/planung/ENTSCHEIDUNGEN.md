@@ -61,6 +61,7 @@ Stand: 20.10.2026. „Bestätigt“ bedeutet eine ausdrückliche Benutzeräußer
 | E54 | Bestätigt | Mein Abo mit Stationsauswahl, Zusatzmodulen, Buchungsänderungen und Mockup detailliert planen; keine Programmierung, Preise offen, auf GitHub sichern. |
 | E55 | Vorschlag | Auswahl/Prüfangebot/Bestätigung, aktuelle und vorgemerkte Positionen trennen; Konflikte, Wiederholungen und Rücknahme explizit behandeln. |
 | E56 | Bestätigt | Ersten Einrichtungsprompt für neuestes stabiles Laravel, Filament und MySQL bereitstellen; dadurch jetzt keine Installation beauftragt. |
+| E57 | Bestätigt | Prompt 00 jetzt ausdrücklich ausführen: ausschließlich lokale technische Basis mit Laravel/Filament und echtem MySQL unter application/, getrennten Dev-/Testdatenbanken und technischem Adminpanel. Keine Landing, Registrierung, Abos oder Fachmodule; danach stoppen. |
 
 ## Modellierungsgrundsätze der aktuellen Spezifikation
 

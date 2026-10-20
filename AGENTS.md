@@ -2,12 +2,13 @@
 
 ## Aktueller Arbeitsmodus
 
-**Nur planen, dokumentieren und Mockups erstellen. Noch keinen Anwendungscode programmieren.**
-Der Benutzer hat am 20.10.2026 ausdrücklich entschieden, in diesem Chat weiter zu planen.
-Eine spätere ausdrückliche Implementierungsanweisung darf diesen Modus ändern.
-Ein interaktives Dashboard wurde zusätzlich ausdrücklich als Mockup angefragt.
-`docs/mockups/11-dashboard-interaktiv.html` ist Vorschaucode ohne Backend,
-keine globale Freigabe zur Implementierung der geplanten Anwendungsmodule.
+**Freigegeben und eingerichtet: ausschließlich lokale technische Entwicklungsbasis gemäß Prompt 00.**
+Der Benutzer hat am 20.10.2026 ausdrücklich Laravel/Filament/MySQL unter `application/`
+beauftragt. Start, Versionen und Prüfungen stehen in
+`docs/leitfaeden/LOKALE-ENTWICKLUNG.md`. Composer-Audit bleibt wegen Netzfreigabe offen.
+Keine Landingpage, Registrierung, Abos oder Fachmodule implementieren, bis ein eigener
+ausdrücklicher Auftrag vorliegt. Planung und Mockups bleiben erhalten.
+`docs/mockups/11-dashboard-interaktiv.html` bleibt Vorschaucode ohne Backend.
 
 ## Beim Einstieg lesen
 
@@ -78,5 +79,6 @@ Prompt 12 lesen; ergänzte Bedien-/Konfliktregeln sind Planungsvorschläge.
 ## Einrichtungsprompt
 
 Benutzer wünscht einen ersten Prompt für neuestes stabiles Laravel/Filament und MySQL.
-Prompt 00 ist ein späterer begrenzter Einrichtungsauftrag, jetzt nicht ausführen.
-Keine Installation durch bloßes Lesen/Ablegen. MySQL nicht mit MariaDB gleichsetzen.
+Prompt 00 wurde ausdrücklich zur lokalen technischen Basis freigegeben und ausgeführt.
+Nicht erneut scaffolden oder vorhandene Konfiguration überschreiben. Leitfaden LOKALE-ENTWICKLUNG
+verwenden. MySQL nicht mit MariaDB gleichsetzen; keine automatische Fachmodulfreigabe.

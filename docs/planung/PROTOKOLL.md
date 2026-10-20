@@ -237,3 +237,34 @@ Dokumentation/Übergabe und Bildbriefing aktualisiert; Git-Sicherung separat ver
 Bei jedem Folgeauftrag Datum, Ergebnis, bestätigte Entscheidungen, offene Punkte
 und nächste Arbeit ergänzen. Commit/Push-Status über Git prüfen, nicht aus diesem Text ableiten.
 Das Protokoll ersetzt keinen vollständigen Chat-Export, enthält aber den Arbeitskontext.
+
+
+## 20.10.2026 – Prompt 00 ausdrücklich ausgeführt: lokale technische Basis
+
+- Benutzerfreigabe ausschließlich für Laravel/Filament/MySQL, keine Fachmodule.
+- Vor Änderung sauberer Arbeitsbaum, `origin/main` geholt und Fast-Forward geprüft:
+  bereits aktuell, keine lokalen Dateien überschrieben.
+- Vorhandene Umgebung geprüft: Debian 13.6, Docker vorhanden, PHP/Composer/MySQL fehlten.
+  Offizielle Metadaten/Quellen geprüft, Laravel 13.38.0 und Filament 5.10.2 gemeinsam
+  aufgelöst; PHP 8.4.26 mit benötigten Extensions, Composer 2.10.3, Node 24.19.0/npm 11.9.0.
+- Anwendung unter `application/`, leeres technisches Filament-Adminpanel, keine
+  Registrierung oder Fachressourcen. Bestehende Planung und Mockups erhalten.
+- Echter MySQL Community Server 9.7.2 LTS im offiziellen Container; Dev/Test getrennt,
+  utf8mb4, eigene Benutzer mit datenbankspezifischen Rechten; nur localhost veröffentlicht.
+- Zufällige Secrets/APP_KEYs lokal ignoriert, synthetischer Admin ausschließlich lokal;
+  Produktionszugriff und Zugang gewöhnlicher Benutzer werden abgewiesen.
+- Standardmigrationen beider Datenbanken, Plattformcheck, Asset-Build, acht Tests mit
+  30 Assertions und echter Chromium-Adminlogin erfolgreich. Keine JS-Fehler; `.env`,
+  Quell-/Planungsdateien über den Entwicklungsserver nicht abrufbar. npm-Audit ohne Befunde.
+- Netzdiagnose: GitHub-API blockiert, einige Git-Klone mit Abbrüchen; offizielle
+  Codeload-Archive derselben Commits direkt verwendet, Prüfsummen/Versionsbindungen
+  unverändert. Proxy-CA unterstützt, keine TLS-/Signaturprüfung deaktiviert.
+- Reproduzierbare Helfer, Start-/Stopp-/Build-/Testbefehle und Secretverfahren in
+  LOKALE-ENTWICKLUNG dokumentiert. Setup wiederholt; MySQL-Erstinitialisierung separat
+  auf temporärem Prüfvolume bestätigt, bestehende Dev-/Testdaten nicht gelöscht.
+- Offen: Composer-Audit konnte wegen Proxy-403 für `packagist.org` nicht abgeschlossen
+  werden. Domain im Cloud-Konfigurationsentwurf ergänzt; nach Netzänderung erneut
+  ausführen und Befunde bewerten. Keine vollständige Auditfreigabe behauptet.
+- Nur geprüfte Quellen, Platzhalterkonfiguration, Lockdateien und Dokumentation für
+  GitHub vorgesehen; keine Secrets, Datenbankdateien, Paketcaches oder generierten Assets.
+  Cloud-Veröffentlichung bleibt eine getrennte Benutzeraktion. Nach Basis stoppen.
