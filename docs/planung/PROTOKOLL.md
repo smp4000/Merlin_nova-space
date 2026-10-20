@@ -69,6 +69,37 @@ Git-Push über Remote-Commit vergleichen. Es gibt keine ausführbare neue Anwend
 Nächster Schritt: Stationsregeln bestätigen und anschließend auf Benutzerwunsch
 Schichtplanung als eigenes Modul planen. Automatische Aboverlängerung bleibt offen.
 
+## 20.10.2026 – Mitarbeiter und Mitarbeitereinladung, DATEV-Grundlage
+
+Benutzerauftrag: „mitarbeiter mit mitarbeiter einladung grundlage datev“.
+Planungsmodus und autorisierte GitHub-Ablage aus den vorigen Aufträgen fortgeführt;
+kein Programmierauftrag. Remote vor Arbeit geprüft: gleichauf mit lokalem main.
+
+Offizielle DATEV-Informationen recherchiert: digitaler Personalfragebogen,
+Arbeitgeber-Grunddaten, Mitarbeiter-Rücklauf/Prüfung und Übergabemöglichkeiten.
+Keine aktuelle vollständige Importspezifikation festgestellt und keine tatsächliche
+DATEV-Anbindung bestätigt. Asynchron gefragt, ob Kanzlei LODAS oder Lohn und Gehalt nutzt;
+bis zur Antwort ausdrücklich produktneutrale Planung.
+
+Ergebnisse:
+- `MITARBEITER-UND-EINLADUNG.md`: Fachablauf, Arbeitgeber-/Beschäftigungsmodell,
+  mehrstationale Einsätze, profilabhängige Feldgruppen, sichere Erfassungseinladung,
+  mobile Selbstangaben, Prüfung/Übernahme, Dokumente, sensible Rechte, Austritt und
+  DATEV-Vorbereitung mit Abnahmefällen.
+- Prompt 06 und Leitfaden `DATEV-GRUNDLAGE.md` mit offiziellen Quellen/Mapping-Gerüst.
+- Mockup 08 mit Mitarbeiterliste, Fragebogeneinladung und mobiler Selbsterfassung.
+- Galerie/Bildbriefing, Entscheidungen, STATUS, README und AGENTS ergänzt.
+
+Keine echten Identifikationsnummern, IBANs, Personaldokumente oder Passwörter veröffentlicht.
+Keine geschützten DATEV-Originalformulare/-PDFs kopiert. Lohnberechnung, ELStAM/eAU,
+Sofort-/SV-Meldung, Zahlungsauftrag und funktionierender DATEV-Export sind nicht umgesetzt.
+Fragebogeneinladung ist keine Vergabe von Stations-/Benutzerrechten und kein Arbeitsvertrag.
+Aufbewahrung/Erforderlichkeit und Zielmapping bleiben mit zuständiger Fachstelle abzustimmen.
+
+Nächster Schritt: DATEV-Ziel und Mitarbeiterprofil/Prüfrechte klären, danach gegebenenfalls
+Schichtplanung. Vor Veröffentlichung Markdown-Verweise/Fences und Git-Whitespace prüfen;
+Remote-Commit nach Push mit lokalem Commit vergleichen.
+
 ## Weiterführungsregel
 
 Bei jedem Folgeauftrag Datum, Ergebnis, bestätigte Entscheidungen, offene Punkte

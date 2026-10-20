@@ -162,3 +162,33 @@ Footer concept, examples, no implementation. No fabricated revenue or map APIs.
 
 See gallery notes for simplified per-day controls, simultaneous week/exception
 views and illustrative generated thumbnails. Model/business rules take precedence.
+
+## 08 – Mitarbeiter und Mitarbeitereinladung, DATEV-orientiert
+
+```text
+Create a premium high-fidelity German Merlin UX board with three views: a wide
+employee-management desktop on top, employer invitation panel bottom left and
+mobile self-service bottom right. Flat screenshots, approved ice-blue/white/navy/
+petrol, subtle cool borders/shadows and rounded cards. No actual sensitive values,
+DATEV logo, certification, real bank/tax/social IDs or working integration claims.
+Top screen: organization sidebar, Mitarbeiter active, headline „Deine Mitarbeiter.
+Sauber erfasst.“, create-employee action, counters 4 personal files, 1 invitation,
+1 submission for review. Tabs employees/questionnaires/review, search and filters.
+Four synthetic records Kim Muster, Alex Beispiel, Robin Demo, Sam Beispiel;
+two active/verified, Robin planned minijob/invitation pending, Sam planned part-time/
+review pending and two stations. No private or payroll values in list.
+Note personal file and login separate, invitation grants no station permissions.
+Employer panel: „Personalfragebogen senden“, Robin Demo, robin@beispiel.invalid,
+planned entry 01.12.2026, profile Minijob, Station Musterstadt. Optional unchecked
+later Merlin-login reminder, no automatic access. 7-day link duration marked proposal.
+Recipient verifies email, only own questionnaire; cancel and send buttons.
+Self-service: own employee form, first/last name Robin Demo, empty birth date and
+home-address placeholders, employer start data read-only. Save/continue and resume
+later. No complete tax/bank values or health data. Text says only self and authorized
+personnel see answers. Compact step display is illustrative, further sections follow.
+Footer „Gestaltungsentwurf · Beispieldaten · Keine DATEV-Anbindung umgesetzt“ and
+„DATEV-orientierte Stammdaten · Zielprogramm noch offen“.
+```
+
+Full field/profile/review rules live in the specification. The picture's shortened
+steps do not remove tax/social insurance or necessary evidence from the plan.

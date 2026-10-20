@@ -27,6 +27,8 @@ Ausführliche Anleitung: [Rechnerwechsel](docs/leitfaeden/RECHNERWECHSEL.md).
 | Bestand und Zielarchitektur | [BESTAND](docs/planung/BESTAND.md) |
 | Team & Zugänge im Detail | [Spezifikation](docs/planung/TEAM-UND-ZUGAENGE.md) |
 | Stationsverwaltung im Detail | [Spezifikation](docs/planung/STATIONSVERWALTUNG.md) |
+| Mitarbeiter & Mitarbeitereinladung | [Spezifikation](docs/planung/MITARBEITER-UND-EINLADUNG.md) |
+| DATEV-Grundlage und Grenzen | [Rechercheleitfaden](docs/leitfaeden/DATEV-GRUNDLAGE.md) |
 | Datenschutz und SEPA | [Planungsleitfaden](docs/leitfaeden/DATENSCHUTZ-UND-SEPA.md) |
 | Modul-Prompts | [Übersicht](docs/prompts/README.md) |
 | Alle Mockups | [Galerie und Hinweise](docs/mockups/README.md) |
@@ -36,7 +38,13 @@ Ausführliche Anleitung: [Rechnerwechsel](docs/leitfaeden/RECHNERWECHSEL.md).
 
 ![Landingpage im gewünschten Eisblau-Petrol-Stil](docs/mockups/02-landing-freigegebener-stil.png)
 
-## Stationsverwaltung – aktueller Entwurf
+## Mitarbeiter & Mitarbeitereinladung – aktueller Entwurf
+
+![Mitarbeiterübersicht, Einladung und Selbsterfassung](docs/mockups/08-mitarbeiter-und-einladung.png)
+
+DATEV-orientierte Planung; Zielprogramm und konkrete Schnittstelle sind noch offen.
+
+## Stationsverwaltung
 
 ![Stationsübersicht und Öffnungszeiten](docs/mockups/07-stationsverwaltung.png)
 

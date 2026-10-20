@@ -11,7 +11,8 @@ Status/Nummern beziehen sich auf die Planungsreihenfolge, nicht auf Implementier
 | [04](04-partnerregistrierung-sepa.png) | Konzept | SEPA-Pflichtschritt; Betreiberangaben und Mandatstext fehlen bewusst. |
 | [05](05-partner-dashboard.png) | Konzept | Erster Einstieg als Inhaber, eine Station, leere Fachbereiche. |
 | [06](06-team-und-zugaenge.png) | Konzept, neu | Zugangsübersicht und Einladung mit Stations-/Rechteumfang. |
-| [07](07-stationsverwaltung.png) | Konzept, neueste Ansicht | Stationsübersicht und Profil mit Öffnungszeiten/Zuständigkeiten. |
+| [07](07-stationsverwaltung.png) | Konzept | Stationsübersicht und Profil mit Öffnungszeiten/Zuständigkeiten. |
+| [08](08-mitarbeiter-und-einladung.png) | Konzept, neueste Ansicht | Mitarbeiterliste, Einladung zum Personalfragebogen und mobiler eigener Erfassungsbereich. |
 
 ## Bekannte Bildabweichungen – nicht als Anforderung übernehmen
 
@@ -40,6 +41,16 @@ Status/Nummern beziehen sich auf die Planungsreihenfolge, nicht auf Implementier
   Kleine Stationsbilder sind generierte Platzhalter, keine echten Standortfotos.
   Einbindung von Stationsbildern ist noch keine beschlossene V1-Funktion.
   Inaktiv ist ein neutraler Betriebszustand, kein pauschaler roter Fehlerstatus.
+- 08 zeigt eine verkürzte mobile Schrittfolge. Steuer/Sozialversicherung und nötige
+  Nachweise fehlen als eigene Schritte im Bild, sind aber in der Fachspezifikation enthalten.
+  Beschäftigungsspalte ist eine Zusammenfassung mehrerer Merkmale; Vollzeit/Teilzeit,
+  Minijobprofil und Eintrittsstatus bleiben separate Datenfelder.
+  Der Personalausschnitt ist eine berechtigte Personalverwaltungsansicht, nicht die
+  Standardansicht jeder Stationsleitung. Ein Organisationsinhaber wird nicht automatisch
+  als Beschäftigter angelegt; „Alex Beispiel“ ist nur ein frei gewählter Beispieldatensatz.
+  „Geprüft“ heißt keine von DATEV bestätigte Übernahme. Separate Login-Vormerkung
+  erzeugt keinen Zugang. 7 Tage Einladungsdauer bleiben Vorschlag.
+  Der mobile Menüknopf darf nur eigene Erfassungsfunktionen, keine Administration öffnen.
 
 ## Vorschauen
 
@@ -66,3 +77,7 @@ Status/Nummern beziehen sich auf die Planungsreihenfolge, nicht auf Implementier
 ### Stationsverwaltung
 
 ![Stationsübersicht und Öffnungszeiten](07-stationsverwaltung.png)
+
+### Mitarbeiter & Mitarbeitereinladung
+
+![Mitarbeiterübersicht, Personalfragebogeneinladung und Selbsterfassung](08-mitarbeiter-und-einladung.png)

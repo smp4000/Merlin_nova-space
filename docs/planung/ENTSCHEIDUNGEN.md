@@ -32,6 +32,11 @@ Stand: 20.10.2026. „Bestätigt“ bedeutet eine ausdrückliche Benutzeräußer
 | E25 | Offen | Stationsleitung darf Kontakte/Öffnungszeiten/Ausstattung nur mit separat bestätigten Fachrechten ändern. |
 | E26 | Vorschlag | Zeitzone V1 aus Organisation erben; Öffnungszeiten mit Gültig-ab-Versionen und Vorrang konkreter Datumsausnahmen. |
 | E27 | Vorschlag | Pause/Archiv bewusst mit Abhängigkeitsprüfung; keine Sofortlöschung oder automatische Aboänderung. |
+| E28 | Bestätigt | Mitarbeiterverwaltung mit Mitarbeitereinladung planen, DATEV als Grundlage. |
+| E29 | Offen | DATEV LODAS oder Lohn und Gehalt; Zielprogramm wurde angefragt. Keine Schnittstelle/Importfähigkeit bestätigt. |
+| E30 | Vorschlag | Selbsterfassung über begrenzten eigenen Personalfragebogen mit Prüfung vor Übernahme; Login separat. |
+| E31 | Vorschlag | Ein Beschäftigungsverhältnis je Arbeitgeber, mehrere Einsatzstationen ohne doppelte Personalakte. Mehrarbeitgebermodell offen. |
+| E32 | Offen | Beschäftigungsfallabhängige Pflichtfelder, Lohnbüro-Zuordnung, Personalnummern, Export-/API-Verfahren und sensible Freigaberechte. |
 
 ## Modellierungsgrundsätze der aktuellen Spezifikation
 

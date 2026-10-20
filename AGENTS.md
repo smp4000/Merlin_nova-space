@@ -20,6 +20,9 @@ Eine spätere ausdrückliche Implementierungsanweisung darf diesen Modus ändern
 - Gewünschter Stil: Eisblau, Weiß, Petrol, dunkelblaue Schrift; siehe Mockup 02.
 - Ein Partner ist Einzelunternehmer oder Gesellschaft und kann 1 bis 100 Stationen betreiben.
 - Vertragspartner, Organisation, Station, Benutzer, Personalakte, Rechnung und Zahlung getrennt halten.
+- Mitarbeiter und Mitarbeitereinladung DATEV-orientiert planen; Ziel LODAS/Lohn und Gehalt
+  noch offen. Personalfragebogen, Login-Einladung und tatsächliche DATEV-Übergabe trennen.
+  Keine Zertifizierung, aktive Schnittstelle oder fertigen DATEV-Export behaupten.
 - 30 Tage kostenlos, danach kostenpflichtiges Abo oder Stilllegung.
 - SEPA-Mandat ist auf Benutzerwunsch Pflicht während der Registrierung.
 - Preise, Zahlungsanbieter, Mandatsverfahren und automatische Verlängerung sind NICHT entschieden.

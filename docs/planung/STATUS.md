@@ -4,9 +4,9 @@ Stand: 20.10.2026, Europe/Berlin. Phase: **Planung und Mockups**.
 
 ## Letzter Benutzerauftrag
 
-Stationsverwaltung haarklein planen, mit Modul-Prompt und Mockup im gleichen Stil.
-Neue Ergebnisse wieder im Repository `smp4000/Merlin_nova-space` sichern und
-Status/Protokoll für einen Rechnerwechsel aktualisieren.
+Mitarbeiterverwaltung mit Mitarbeitereinladung planen, Grundlage DATEV.
+Fortführung der bisherigen Arbeitsweise: Fachspezifikation, Modul-Prompt,
+Mockup im gleichen Stil und GitHub-Ablage mit Protokoll/Übergabe aktualisieren.
 **Noch nichts programmieren.**
 
 ## Vorhandene Ergebnisse
@@ -19,19 +19,23 @@ Status/Protokoll für einen Rechnerwechsel aktualisieren.
 - Team-&-Zugänge-Spezifikation, Prompt und Mockup.
 - Stationsverwaltungs-Spezifikation und Prompt 05: Stammdaten, Rechte,
   Öffnungszeiten/Ausnahmen, Lebenszyklus und Abhängigkeiten.
-- Sieben Mockups insgesamt, zuletzt Stationsübersicht und Öffnungszeitenprofil.
+- Mitarbeiter-/Einladungsplanung mit Feldgruppen, Personal-/Lohnrechten,
+  Selbsterfassung, Prüfung und begrenzter DATEV-Vorbereitung; Prompt 06.
+- Offizielle DATEV-Recherche und Mapping-Gerüst ohne erfundene Schnittstellenfelder.
+- Acht Mockups insgesamt, zuletzt Mitarbeiterübersicht, Einladung und Selbsterfassung.
 - Datenschutz-/SEPA-Leitfaden mit Quellen und offenen Punkten.
 - Git- und Codex-Übergabeanleitung.
 
 ## Nächste sinnvolle Arbeit
 
-1. Stationsverwaltung besprechen: Status-/Limitzählung, Leitungsrechte für
-   Öffnungszeiten und Stammdaten, Pause/Archiv mit laufenden Vorgängen bestätigen.
-2. Öffnungszeiten-Versionierung, Länder-/Zeitzonenmodell und Ausnahme-Randfälle prüfen.
-3. Rollen und Rechteumfang für Stationsleitung sowie vorgeschlagene
-   Einladungsdauer von 7 Tagen bestätigen oder ändern.
-4. Als nächstes Fachmodul Schichtplanung detailliert planen, falls Benutzer zustimmt.
-5. Bei Bedarf Anlage-, Archivierungs- und Stationsleitungsansichten zusätzlich mocken.
+1. Antwort zur gestellten Frage nach DATEV LODAS oder Lohn und Gehalt aufnehmen;
+   bis dahin kein Zielprogramm als bestätigt behandeln.
+2. Mitarbeiterfelder/-profile mit Lohnstelle, Arbeitgebermodell und gewünschtem
+   Übergabeweg abstimmen; keine beliebige CSV als DATEV-Import ausgeben.
+3. Personal-/Lohnrechte, Bankänderungsschutz und Erfassungszugang besprechen;
+   bei Bedarf Prüf-/Rückfrageansicht zusätzlich mocken.
+4. Offene Stations- und Rollenregeln bestätigen (Limit, Öffnungszeiten, Einladungsfrist).
+5. Als nächstes Fachmodul Schichtplanung detailliert planen, falls Benutzer zustimmt.
 6. Erst auf ausdrücklichen Implementierungsauftrag Code erzeugen.
 
 ## Noch nicht entschieden / nicht fertig
@@ -47,6 +51,9 @@ Status/Protokoll für einen Rechnerwechsel aktualisieren.
   Archivierung auf eine spätere Abrechnung auswirkt.
 - Stationsrechte für Kontakte/Öffnungszeiten/Ausstattung; genaue Pausen-Nachbearbeitung.
 - Länderumfang, Stationszeitzone versus Organisationsvererbung und Gültig-ab-Regeln.
+- DATEV-Zielprogramm, Version/Feldmapping, Datei-/Cloud-Übergabe und technische Freigabe.
+- Rechtlicher Arbeitgeber/Lohnmandant je Akte, Personalnummern und bedingte Pflichtfelder.
+- Personalfragebogenprofile, genaue Personal-/Lohnrechte und Erfassungs-Authentifizierung.
 
 ## Technischer Zustand
 
